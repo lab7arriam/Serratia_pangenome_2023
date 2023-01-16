@@ -1,0 +1,381 @@
+Group	Ontology	Term	Annotation	x_1	M	n	N	P_val
+Accessory	COG	N	Cell motility 	3231	385783	8734	90131	3.56060429631978E-184
+Accessory	COG	U	Intracellular trafficking, secretion, and vesicular transport 	5326	385783	20532	90131	3.48803095496377E-19
+Accessory	COG	K	Transcription 	9516	385783	37360	90131	4.64017298988154E-24
+Accessory	COG	M	Cell wall/membrane/envelope biogenesis 	5151	385783	20398	90131	3.84215635354928E-11
+Accessory	COG	S	Function unknown 	18123	385783	71438	90131	1.87074131205711E-44
+Accessory	COG	V	Defense mechanisms 	1328	385783	3214	90131	6.32574207695123E-114
+Accessory	COG	Q	Secondary metabolites biosynthesis, transport and catabolism 	2842	385783	9491	90131	1.07438895393249E-50
+Accessory	COG	L	Replication, recombination and repair 	3508	385783	12169	90131	9.53624946582834E-46
+Accessory	COG	W	Extracellular structures 	2	385783	3	90131	0.012752115354265
+Accessory	KEGG	ko05133	Pertussis 	946	474123	1312	95770	0
+Accessory	KEGG	ko00903	Limonene and pinene degradation 	199	474123	489	95770	1.39524746134038E-25
+Accessory	KEGG	ko00930	Caprolactam degradation 	177	474123	394	95770	5.34895563000589E-29
+Accessory	KEGG	ko00362	Benzoate degradation 	693	474123	1703	95770	1.26175233994369E-83
+Accessory	KEGG	ko00380	Tryptophan metabolism 	303	474123	1319	95770	0.006017174584944
+Accessory	KEGG	ko00627	Aminobenzoate degradation 	189	474123	560	95770	2.33449061574618E-14
+Accessory	KEGG	ko04216	Ferroptosis 	138	474123	357	95770	3.61766514235784E-16
+Accessory	KEGG	ko00561	Glycerolipid metabolism 	318	474123	1192	95770	2.88849851584162E-08
+Accessory	KEGG	ko04072	Phospholipase D signaling pathway 	67	474123	141	95770	9.38518627541004E-14
+Accessory	KEGG	ko05231	Choline metabolism in cancer 	67	474123	141	95770	9.38518627541004E-14
+Accessory	KEGG	ko01501	beta-Lactam resistance 	781	474123	2882	95770	1.88590166241095E-19
+Accessory	KEGG	ko00040	Pentose and glucuronate interconversions 	784	474123	1864	95770	8.80636201878718E-103
+Accessory	KEGG	ko00140	Steroid hormone biosynthesis 	63	474123	64	95770	3.42266423919E-45
+Accessory	KEGG	ko00600	Sphingolipid metabolism 	113	474123	186	95770	3.18702550394667E-34
+Accessory	KEGG	ko04973	Carbohydrate digestion and absorption 	63	474123	136	95770	1.97873655211632E-12
+Accessory	KEGG	ko00565	Ether lipid metabolism 	63	474123	136	95770	1.97873655211632E-12
+Accessory	KEGG	ko00590	Arachidonic acid metabolism 	63	474123	209	95770	0.000235435587743
+Accessory	KEGG	ko00591	Linoleic acid metabolism 	63	474123	209	95770	0.000235435587743
+Accessory	KEGG	ko00592	alpha-Linolenic acid metabolism 	102	474123	317	95770	1.87110193617368E-07
+Accessory	KEGG	ko00361	Chlorocyclohexane and chlorobenzene degradation 	71	474123	218	95770	6.19401698937122E-06
+Accessory	KEGG	ko00622	Xylene degradation 	154	474123	301	95770	2.11937198647119E-33
+Accessory	KEGG	ko00643	Styrene degradation 	121	474123	268	95770	9.61863718550577E-21
+Accessory	KEGG	ko03070	Bacterial secretion system 	963	474123	3094	95770	2.54154625634561E-47
+Accessory	KEGG	ko03320	PPAR signaling pathway 	126	474123	345	95770	7.54003074771894E-13
+Accessory	KEGG	ko04920	Adipocytokine signaling pathway 	53	474123	199	95770	0.011251653139558
+Accessory	KEGG	ko04626	Plant-pathogen interaction 	526	474123	748	95770	3.81606684492232E-193
+Accessory	KEGG	ko00950	Isoquinoline alkaloid biosynthesis 	50	474123	196	95770	0.028795917479655
+Accessory	KEGG	ko05111	Biofilm formation - Vibrio cholerae 	646	474123	2168	95770	8.81095857307361E-27
+Accessory	KEGG	ko00511	Other glycan degradation 	105	474123	322	95770	6.0080394279454E-08
+Accessory	KEGG	ko05110	Vibrio cholerae infection 	52	474123	132	95770	1.26490535464726E-07
+Accessory	KEGG	ko00053	Ascorbate and aldarate metabolism 	643	474123	1363	95770	4.78037814668675E-111
+Accessory	KEGG	ko04621	NOD-like receptor signaling pathway 	96	474123	316	95770	6.61064464235385E-06
+Accessory	KEGG	ko05132	Salmonella infection 	107	474123	322	95770	1.50450569001155E-08
+Accessory	KEGG	ko05134	Legionellosis 	73	474123	295	95770	0.023918761018198
+Accessory	KEGG	ko00633	Nitrotoluene degradation 	45	474123	118	95770	2.18443177025711E-06
+Accessory	KEGG	ko00624	Polycyclic aromatic hydrocarbon degradation 	90	474123	91	95770	5.90168084627808E-64
+Accessory	KEGG	ko00523	Polyketide sugar unit biosynthesis 	124	474123	417	95770	1.39222146433269E-06
+Accessory	KEGG	ko00981	Insect hormone biosynthesis 	62	474123	136	95770	6.9345979486893E-12
+Accessory	KEGG	ko00984	Steroid degradation 	26	474123	27	95770	1.74931568636606E-19
+Accessory	KEGG	ko00621	Dioxin degradation 	84	474123	158	95770	1.15974987154387E-20
+Accessory	KEGG	ko04978	Mineral absorption 	21	474123	22	95770	5.2072711183787E-16
+Accessory	KEGG	ko00333	Prodigiosin biosynthesis 	247	474123	832	95770	3.00043262524674E-11
+Accessory	KEGG	ko00365	Furfural degradation 	14	474123	15	95770	3.79924203007641E-11
+Accessory	KEGG	ko00311	Penicillin and cephalosporin biosynthesis 	48	474123	49	95770	9.06417295906763E-35
+Accessory	KEGG	ko04218	Cellular senescence 	6	474123	7	95770	1.37180774042375E-05
+Accessory	KEGG	ko05206	MicroRNAs in cancer 	38	474123	114	95770	0.000336761912497
+Accessory	KEGG	ko01056	Biosynthesis of type II polyketide backbone 	3	474123	4	95770	0.001664685289309
+Accessory	KEGG	ko00941	Flavonoid biosynthesis 	2	474123	3	95770	0.008241467202516
+Accessory	KEGG	ko00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis 	2	474123	3	95770	0.008241467202516
+Accessory	KEGG	ko05131	Shigellosis 	3	474123	4	95770	0.001664685289309
+Core	COG	C	Energy production and conversion 	15507	385783	18584	295652	1.07509589556965E-120
+Core	COG	J	Translation, ribosomal structure and biogenesis 	15924	385783	16523	295652	0
+Core	COG	D	Cell cycle control, cell division, chromosome partitioning 	3563	385783	4230	295652	5.79544611536276E-35
+Core	COG	O	Posttranslational modification, protein turnover, chaperones 	8734	385783	9919	295652	2.00375101504513E-188
+Core	COG	T	Signal transduction mechanisms 	9397	385783	11119	295652	9.08321841178157E-97
+Core	COG	P	Inorganic ion transport and metabolism 	17923	385783	22087	295652	6.16709542267426E-63
+Core	COG	G	Carbohydrate transport and metabolism 	20963	385783	26860	295652	5.98382530439164E-09
+Core	COG	F	Nucleotide transport and metabolism 	9749	385783	10498	295652	0
+Core	COG	H	Coenzyme transport and metabolism 	13200	385783	14221	295652	0
+Core	COG	I	Lipid transport and metabolism 	8541	385783	10713	295652	3.23092297735958E-15
+Core	COG	E	Amino acid transport and metabolism 	29465	385783	33450	295652	0
+Core	COG	A	RNA processing and modification 	72	385783	73	295652	3.65639104844954E-09
+Core	COG	B	Chromatin structure and dynamics 	72	385783	75	295652	6.05290627264479E-07
+Core	KEGG	ko03010	Ribosome 	4087	474123	4090	378353	0
+Core	KEGG	ko02010	ABC transporters 	16316	474123	18862	378353	5.6249473066577E-133
+Core	KEGG	ko00230	Purine metabolism 	6000	474123	6714	378353	8.07141046191372E-100
+Core	KEGG	ko00240	Pyrimidine metabolism 	4582	474123	4643	378353	0
+Core	KEGG	ko00190	Oxidative phosphorylation 	3126	474123	3241	378353	3.57126445516805E-174
+Core	KEGG	ko02020	Two-component system 	10916	474123	12521	378353	1.95129093522004E-107
+Core	KEGG	ko00360	Phenylalanine metabolism 	1559	474123	1904	378353	0.010203599074163
+Core	KEGG	ko00500	Starch and sucrose metabolism 	2961	474123	3353	378353	8.85774922141795E-40
+Core	KEGG	ko02060	Phosphotransferase system (PTS) 	2321	474123	2649	378353	7.19767128722018E-27
+Core	KEGG	ko03440	Homologous recombination 	1957	474123	2053	378353	4.35862316311154E-93
+Core	KEGG	ko05418	Fluid shear stress and atherosclerosis 	796	474123	960	378353	0.006374860219452
+Core	KEGG	ko04122	Sulfur relay system 	1310	474123	1318	378353	4.12580514516674E-116
+Core	KEGG	ko02024	Quorum sensing 	7864	474123	8896	378353	3.30324596787476E-105
+Core	KEGG	ko03060	Protein export 	1308	474123	1322	378353	1.928243120718E-107
+Core	KEGG	ko00020	Citrate cycle (TCA cycle) 	2032	474123	2131	378353	5.25977812128262E-97
+Core	KEGG	ko00650	Butanoate metabolism 	2818	474123	3281	378353	3.88888203984805E-20
+Core	KEGG	ko00720	Carbon fixation pathways in prokaryotes 	2176	474123	2264	378353	5.47820156091863E-116
+Core	KEGG	ko00790	Folate biosynthesis 	2248	474123	2309	378353	1.14516982037586E-143
+Core	KEGG	ko00051	Fructose and mannose metabolism 	2396	474123	2764	378353	8.4418967946384E-22
+Core	KEGG	ko00564	Glycerophospholipid metabolism 	2250	474123	2475	378353	5.0346967053568E-52
+Core	KEGG	ko02040	Flagellar assembly 	2574	474123	2649	378353	1.11697834236066E-159
+Core	KEGG	ko00410	beta-Alanine metabolism 	1084	474123	1215	378353	4.81100750690891E-19
+Core	KEGG	ko00770	Pantothenate and CoA biosynthesis 	1601	474123	1650	378353	3.45397342716024E-98
+Core	KEGG	ko00520	Amino sugar and nucleotide sugar metabolism 	3617	474123	4217	378353	1.98262149474817E-24
+Core	KEGG	ko00740	Riboflavin metabolism 	727	474123	813	378353	6.18749057623635E-14
+Core	KEGG	ko00860	Porphyrin metabolism 	1451	474123	1465	378353	6.43444419394892E-121
+Core	KEGG	ko00350	Tyrosine metabolism 	1377	474123	1653	378353	0.000124978467791
+Core	KEGG	ko02030	Bacterial chemotaxis 	1808	474123	2031	378353	3.26263109728713E-29
+Core	KEGG	ko00130	Ubiquinone and other terpenoid-quinone biosynthesis 	1523	474123	1720	378353	1.51970538204762E-22
+Core	KEGG	ko00195	Photosynthesis 	583	474123	584	378353	5.39621128423796E-58
+Core	KEGG	ko00983	Drug metabolism - other enzymes 	1489	474123	1518	378353	6.81813748061349E-107
+Core	KEGG	ko04016	MAPK signaling pathway - plant 	217	474123	249	378353	0.00090633782686
+Core	KEGG	ko01040	Biosynthesis of unsaturated fatty acids 	874	474123	943	378353	8.52353209306357E-29
+Core	KEGG	ko00400	Phenylalanine, tyrosine and tryptophan biosynthesis 	1739	474123	1876	378353	2.66657059542573E-55
+Core	KEGG	ko02026	Biofilm formation - Escherichia coli 	3526	474123	4162	378353	9.72573465883255E-17
+Core	KEGG	ko00061	Fatty acid biosynthesis 	1600	474123	1859	378353	7.45070102130758E-13
+Core	KEGG	ko00780	Biotin metabolism 	1526	474123	1791	378353	1.34323790324547E-09
+Core	KEGG	ko00640	Propanoate metabolism 	2174	474123	2324	378353	1.21581812538895E-78
+Core	KEGG	ko00620	Pyruvate metabolism 	3631	474123	3880	378353	8.63945064717773E-131
+Core	KEGG	ko03030	DNA replication 	1234	474123	1355	378353	2.55747050837209E-30
+Core	KEGG	ko00900	Terpenoid backbone biosynthesis 	869	474123	928	378353	3.12863522871507E-33
+Core	KEGG	ko00052	Galactose metabolism 	2018	474123	2315	378353	3.77023863333628E-21
+Core	KEGG	ko00290	Valine, leucine and isoleucine biosynthesis 	1452	474123	1505	378353	2.06905931130271E-82
+Core	KEGG	ko00660	C5-Branched dibasic acid metabolism 	1090	474123	1113	378353	4.04030757910708E-77
+Core	KEGG	ko00010	Glycolysis / Gluconeogenesis 	3707	474123	4325	378353	1.61346266596162E-24
+Core	KEGG	ko00270	Cysteine and methionine metabolism 	3339	474123	3720	378353	5.19080299496096E-61
+Core	KEGG	ko03018	RNA degradation 	1162	474123	1283	378353	3.23544981993613E-26
+Core	KEGG	ko03008	Ribosome biogenesis in eukaryotes 	218	474123	219	378353	3.41831430846111E-22
+Core	KEGG	ko00540	Lipopolysaccharide biosynthesis 	1887	474123	2070	378353	5.38939046165578E-46
+Core	KEGG	ko00310	Lysine degradation 	1154	474123	1406	378353	0.014335309117197
+Core	KEGG	ko00030	Pentose phosphate pathway 	2761	474123	3073	378353	1.07190830286412E-51
+Core	KEGG	ko00710	Carbon fixation in photosynthetic organisms 	1748	474123	1882	378353	2.99234494391196E-57
+Core	KEGG	ko04112	Cell cycle - Caulobacter 	873	474123	917	378353	4.83949820905478E-42
+Core	KEGG	ko04212	Longevity regulating pathway - worm 	508	474123	512	378353	2.32148139329273E-45
+Core	KEGG	ko00440	Phosphonate and phosphinate metabolism 	875	474123	926	378353	5.53774243262123E-38
+Core	KEGG	ko01503	Cationic antimicrobial peptide (CAMP) resistance 	3189	474123	3740	378353	1.6563424262865E-18
+Core	KEGG	ko00330	Arginine and proline metabolism 	3036	474123	3248	378353	9.23419962528423E-108
+Core	KEGG	ko00760	Nicotinate and nicotinamide metabolism 	2353	474123	2681	378353	3.35227061826262E-28
+Core	KEGG	ko00260	Glycine, serine and threonine metabolism 	3330	474123	3513	378353	7.65818318457349E-145
+Core	KEGG	ko04214	Apoptosis - fly 	145	474123	146	378353	4.90280125372981E-15
+Core	KEGG	ko00531	Glycosaminoglycan degradation 	289	474123	291	378353	2.2254323189995E-27
+Core	KEGG	ko00220	Arginine biosynthesis 	1593	474123	1687	378353	1.17222602296542E-66
+Core	KEGG	ko00910	Nitrogen metabolism 	1451	474123	1610	378353	1.1714002744322E-29
+Core	KEGG	ko00550	Peptidoglycan biosynthesis 	1890	474123	1899	378353	2.28081689229138E-170
+Core	KEGG	ko00340	Histidine metabolism 	1163	474123	1240	378353	9.73648363492801E-45
+Core	KEGG	ko00730	Thiamine metabolism 	1308	474123	1309	378353	3.36632970587547E-129
+Core	KEGG	ko00521	Streptomycin biosynthesis 	796	474123	966	378353	0.018612636976684
+Core	KEGG	ko00630	Glyoxylate and dicarboxylate metabolism 	2532	474123	2814	378353	7.89723798278374E-49
+Core	KEGG	ko00680	Methane metabolism 	2033	474123	2237	378353	5.84480297885651E-47
+Core	KEGG	ko03410	Base excision repair 	944	474123	947	378353	3.62644722445789E-89
+Core	KEGG	ko00071	Fatty acid degradation 	1229	474123	1473	378353	0.00016384109375
+Core	KEGG	ko00280	Valine, leucine and isoleucine degradation 	1229	474123	1507	378353	0.04072886728757
+Core	KEGG	ko00450	Selenocompound metabolism 	1233	474123	1379	378353	3.08214306356736E-22
+Core	KEGG	ko01053	Biosynthesis of siderophore group nonribosomal peptides 	643	474123	755	378353	5.82421368736541E-05
+Core	KEGG	ko00300	Lysine biosynthesis 	1666	474123	1824	378353	3.66695854982471E-42
+Core	KEGG	ko00480	Glutathione metabolism 	1880	474123	1920	378353	6.95821164160541E-131
+Core	KEGG	ko00980	Metabolism of xenobiotics by cytochrome P450 	724	474123	760	378353	1.44999624649681E-35
+Core	KEGG	ko00982	Drug metabolism - cytochrome P450 	724	474123	760	378353	1.44999624649681E-35
+Core	KEGG	ko01524	Platinum drug resistance 	578	474123	625	378353	3.8244435543776E-19
+Core	KEGG	ko05200	Pathways in cancer 	651	474123	791	378353	0.034506456715765
+Core	KEGG	ko05204	Chemical carcinogenesis - DNA adducts 	578	474123	606	378353	2.52184374310227E-29
+Core	KEGG	ko00250	Alanine, aspartate and glutamate metabolism 	2611	474123	2654	378353	5.13826989920065E-194
+Core	KEGG	ko04217	Necroptosis 	727	474123	738	378353	5.98639996481925E-57
+Core	KEGG	ko04724	Glutamatergic synapse 	363	474123	364	378353	2.06497448349191E-36
+Core	KEGG	ko04727	GABAergic synapse 	363	474123	364	378353	2.06497448349191E-36
+Core	KEGG	ko04723	Retrograde endocannabinoid signaling 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko05010	Alzheimer disease 	218	474123	219	378353	3.41831430846111E-22
+Core	KEGG	ko03430	Mismatch repair 	1667	474123	1808	378353	6.33615691473331E-49
+Core	KEGG	ko00785	Lipoic acid metabolism 	217	474123	218	378353	4.28406850411318E-22
+Core	KEGG	ko05205	Proteoglycans in cancer 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko00261	Monobactam biosynthesis 	1012	474123	1098	378353	2.27847523612596E-30
+Core	KEGG	ko00670	One carbon pool by folate 	1165	474123	1175	378353	2.56767606698521E-99
+Core	KEGG	ko00430	Taurine and hypotaurine metabolism 	434	474123	449	378353	6.18139475289395E-27
+Core	KEGG	ko00121	Secondary bile acid biosynthesis 	72	474123	74	378353	1.1042335411615E-06
+Core	KEGG	ko00401	Novobiocin biosynthesis 	288	474123	341	378353	0.011613897722368
+Core	KEGG	ko00960	Tropane, piperidine and pyridine alkaloid biosynthesis 	432	474123	485	378353	1.70537515167587E-08
+Core	KEGG	ko00623	Toluene degradation 	145	474123	163	378353	0.000649064443296
+Core	KEGG	ko00970	Aminoacyl-tRNA biosynthesis 	1961	474123	2041	378353	3.00580088395989E-104
+Core	KEGG	ko04146	Peroxisome 	652	474123	717	378353	1.35950803391269E-16
+Core	KEGG	ko00750	Vitamin B6 metabolism 	652	474123	735	378353	4.42644291130724E-11
+Core	KEGG	ko04922	Glucagon signaling pathway 	362	474123	401	378353	4.63070845643009E-09
+Core	KEGG	ko05230	Central carbon metabolism in cancer 	434	474123	455	378353	1.38229472002485E-22
+Core	KEGG	ko04013	MAPK signaling pathway - fly 	144	474123	145	378353	6.14429080006587E-15
+Core	KEGG	ko04068	FoxO signaling pathway 	216	474123	220	378353	8.19357922981724E-18
+Core	KEGG	ko04211	Longevity regulating pathway 	216	474123	220	378353	8.19357922981724E-18
+Core	KEGG	ko04213	Longevity regulating pathway - multiple species 	361	474123	365	378353	2.22567025379901E-31
+Core	KEGG	ko05016	Huntington disease 	216	474123	217	378353	5.36908881496203E-22
+Core	KEGG	ko00562	Inositol phosphate metabolism 	1082	474123	1117	378353	1.41313443485417E-65
+Core	KEGG	ko01055	Biosynthesis of vancomycin group antibiotics 	144	474123	167	378353	0.012180974070621
+Core	KEGG	ko00524	Neomycin, kanamycin and gentamicin biosynthesis 	288	474123	330	378353	0.00013923190415
+Core	KEGG	ko00626	Naphthalene degradation 	290	474123	333	378353	0.000188710237715
+Core	KEGG	ko00830	Retinol metabolism 	218	474123	236	378353	2.58726750176669E-08
+Core	KEGG	ko04918	Thyroid hormone synthesis 	217	474123	218	378353	4.28406850411318E-22
+Core	KEGG	ko01523	Antifolate resistance 	437	474123	441	378353	1.37299264215779E-38
+Core	KEGG	ko05152	Tuberculosis 	290	474123	291	378353	2.97854518265349E-29
+Core	KEGG	ko00460	Cyanoamino acid metabolism 	868	474123	955	378353	2.91428689750316E-21
+Core	KEGG	ko00940	Phenylpropanoid biosynthesis 	436	474123	527	378353	0.03962004650852
+Core	KEGG	ko01502	Vancomycin resistance 	507	474123	512	378353	7.54703973866115E-44
+Core	KEGG	ko03420	Nucleotide excision repair 	581	474123	603	378353	8.7543078001411E-34
+Core	KEGG	ko00405	Phenazine biosynthesis 	216	474123	236	378353	2.4462059073017E-07
+Core	KEGG	ko00965	Betalain biosynthesis 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04614	Renin-angiotensin system 	143	474123	144	378353	7.70014676615782E-15
+Core	KEGG	ko05142	Chagas disease 	145	474123	146	378353	4.90280125372981E-15
+Core	KEGG	ko05143	African trypanosomiasis 	145	474123	147	378353	1.49536457055076E-13
+Core	KEGG	ko04964	Proximal tubule bicarbonate reclamation 	218	474123	219	378353	3.41831430846111E-22
+Core	KEGG	ko00908	Zeatin biosynthesis 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko03020	RNA polymerase 	291	474123	293	378353	1.4263583816726E-27
+Core	KEGG	ko04152	AMPK signaling pathway 	144	474123	145	378353	6.14429080006587E-15
+Core	KEGG	ko04910	Insulin signaling pathway 	217	474123	228	378353	5.05837109994566E-12
+Core	KEGG	ko00332	Carbapenem biosynthesis 	145	474123	146	378353	4.90280125372981E-15
+Core	KEGG	ko05219	Bladder cancer 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04934	Cushing syndrome 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko05211	Renal cell carcinoma 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko00966	Glucosinolate biosynthesis 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04930	Type II diabetes mellitus 	144	474123	165	378353	0.004482423108289
+Core	KEGG	ko05165	Human papillomavirus infection 	144	474123	165	378353	0.004482423108289
+Core	KEGG	ko05203	Viral carcinogenesis 	144	474123	165	378353	0.004482423108289
+Core	KEGG	ko04113	Meiosis - yeast 	72	474123	74	378353	1.1042335411615E-06
+Core	KEGG	ko04940	Type I diabetes mellitus 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04141	Protein processing in endoplasmic reticulum 	72	474123	75	378353	8.83409635180125E-06
+Core	KEGG	ko04151	PI3K-Akt signaling pathway 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04612	Antigen processing and presentation 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04657	IL-17 signaling pathway 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04659	Th17 cell differentiation 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04914	Progesterone-mediated oocyte maturation 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04915	Estrogen signaling pathway 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko05215	Prostate cancer 	72	474123	73	378353	7.01197158756908E-08
+Core	KEGG	ko04931	Insulin resistance 	216	474123	227	378353	6.0671287722266E-12
+Core	KEGG	ko04917	Prolactin signaling pathway 	71	474123	72	378353	8.78720353872834E-08
+Core	KEGG	ko04919	Thyroid hormone signaling pathway 	71	474123	72	378353	8.78720353872834E-08
+Core	KEGG	ko04210	Apoptosis 	71	474123	72	378353	8.78720353872834E-08
+Core	KEGG	ko03013	Nucleocytoplasmic transport 	143	474123	144	378353	7.70014676615782E-15
+Core	KEGG	ko05014	Amyotrophic lateral sclerosis 	143	474123	147	378353	3.57861396124E-11
+Core	KEGG	ko05020	Prion disease 	71	474123	72	378353	8.78720353872834E-08
+Core	KEGG	ko00513	Various types of N-glycan biosynthesis 	143	474123	144	378353	7.70014676615782E-15
+Core	KEGG	ko00603	Glycosphingolipid biosynthesis - globo and isoglobo series 	143	474123	144	378353	7.70014676615782E-15
+Core	KEGG	ko00604	Glycosphingolipid biosynthesis - ganglio series 	143	474123	144	378353	7.70014676615782E-15
+Core	KEGG	ko04142	Lysosome 	143	474123	154	378353	1.81625591341877E-06
+Core	KEGG	ko04011	MAPK signaling pathway - yeast 	71	474123	75	378353	5.77576149330072E-05
+Human_scoary	COG	M	Cell wall/membrane/envelope biogenesis 	359	385783	20398	5943	0.004702090171895
+Human_scoary	COG	K	Transcription 	718	385783	37360	5943	4.76748061538162E-10
+Human_scoary	COG	S	Function unknown 	1335	385783	71438	5943	5.95089118467568E-15
+Human_scoary	COG	P	Inorganic ion transport and metabolism 	480	385783	22087	5943	4.01399171714236E-14
+Human_scoary	COG	D	Cell cycle control, cell division, chromosome partitioning 	93	385783	4230	5943	0.000387015724845
+Human_scoary	KEGG	ko01503	Cationic antimicrobial peptide (CAMP) resistance 	76	474123	3740	6732	0.001074407854247
+Human_scoary	KEGG	ko04216	Ferroptosis 	36	474123	357	6732	1.38038104181623E-20
+Human_scoary	KEGG	ko00300	Lysine biosynthesis 	35	474123	1824	6732	0.033365601444092
+Human_scoary	KEGG	ko01501	beta-Lactam resistance 	81	474123	2882	6732	6.86242646094785E-09
+Human_scoary	KEGG	ko00130	Ubiquinone and other terpenoid-quinone biosynthesis 	38	474123	1720	6732	0.003642968472543
+Human_scoary	KEGG	ko05200	Pathways in cancer 	29	474123	791	6732	1.97416190229144E-06
+Human_scoary	KEGG	ko05225	Hepatocellular carcinoma 	29	474123	645	6732	2.77881541478938E-08
+Human_scoary	KEGG	ko05418	Fluid shear stress and atherosclerosis 	29	474123	960	6732	7.3657161492018E-05
+Human_scoary	KEGG	ko05110	Vibrio cholerae infection 	25	474123	132	6732	4.90623989168242E-22
+Human_scoary	KEGG	ko03070	Bacterial secretion system 	291	474123	3094	6732	2.73413914918852E-141
+Human_scoary	KEGG	ko05111	Biofilm formation - Vibrio cholerae 	249	474123	2168	6732	4.24154983947213E-141
+Human_scoary	KEGG	ko00040	Pentose and glucuronate interconversions 	77	474123	1864	6732	1.57728995348366E-16
+Human_scoary	KEGG	ko00053	Ascorbate and aldarate metabolism 	181	474123	1363	6732	5.09117507620966E-114
+Human_scoary	KEGG	ko02060	Phosphotransferase system (PTS) 	77	474123	2649	6732	3.75245104257103E-09
+Human_scoary	KEGG	ko00561	Glycerolipid metabolism 	25	474123	1192	6732	0.023112211562992
+Human_scoary	KEGG	ko03320	PPAR signaling pathway 	25	474123	345	6732	1.00402765957033E-11
+Human_scoary	KEGG	ko04626	Plant-pathogen interaction 	47	474123	748	6732	1.58222441674329E-17
+Human_scoary	KEGG	ko04621	NOD-like receptor signaling pathway 	21	474123	316	6732	1.65523364706102E-09
+Human_scoary	KEGG	ko05132	Salmonella infection 	21	474123	322	6732	2.34183017637112E-09
+Human_scoary	KEGG	ko05134	Legionellosis 	21	474123	295	6732	4.5857405545356E-10
+Human_scoary	KEGG	ko00740	Riboflavin metabolism 	20	474123	813	6732	0.007338401746819
+Human_scoary	KEGG	ko02025	Biofilm formation - Pseudomonas aeruginosa 	96	474123	2395	6732	3.14759809617209E-19
+Human_scoary	KEGG	ko01524	Platinum drug resistance 	15	474123	625	6732	0.018849750876591
+Human_scoary	KEGG	ko04016	MAPK signaling pathway - plant 	15	474123	249	6732	7.63840225863245E-07
+Human_scoary	KEGG	ko04978	Mineral absorption 	15	474123	22	6732	1.8461023790944E-25
+Human_scoary	KEGG	ko00220	Arginine biosynthesis 	41	474123	1687	6732	0.000467493868593
+Human_scoary	KEGG	ko00791	Atrazine degradation 	41	474123	281	6732	1.57263071983067E-29
+Human_scoary	KEGG	ko05120	Epithelial cell signaling in Helicobacter pylori infection 	27	474123	189	6732	4.18496708406841E-20
+Human_scoary	KEGG	ko00365	Furfural degradation 	11	474123	15	6732	2.90864736988594E-20
+Human_scoary	KEGG	ko00311	Penicillin and cephalosporin biosynthesis 	7	474123	49	6732	4.41812268272119E-07
+Insect_scoary	COG	U	Intracellular trafficking, secretion, and vesicular transport 	26	385783	20532	249	0.000399504280958
+Insect_scoary	KEGG	ko00900	Terpenoid backbone biosynthesis 	2	474123	928	234	0.011278197361679
+Insect_scoary	KEGG	ko02024	Quorum sensing 	11	474123	8896	234	0.001749256782632
+Insect_scoary	KEGG	ko00627	Aminobenzoate degradation 	8	474123	560	234	1.64447294782155E-11
+Insect_scoary	KEGG	ko00940	Phenylpropanoid biosynthesis 	2	474123	527	234	0.002379704422021
+Insect_scoary	KEGG	ko05110	Vibrio cholerae infection 	1	474123	132	234	0.00201016600721
+Insect_scoary	KEGG	ko00523	Polyketide sugar unit biosynthesis 	1	474123	417	234	0.018393643799194
+Plant_scoary	COG	N	Cell motility 	26	385783	8734	513	6.20794636996889E-05
+Plant_scoary	COG	S	Function unknown 	120	385783	71438	513	0.00238031046542
+Plant_scoary	COG	L	Replication, recombination and repair 	28	385783	12169	513	0.002155269058697
+Plant_scoary	KEGG	ko05133	Pertussis 	7	474123	1312	597	0.000307984085852
+Plant_scoary	KEGG	ko00362	Benzoate degradation 	24	474123	1703	597	8.8685205138677E-19
+Plant_scoary	KEGG	ko00621	Dioxin degradation 	2	474123	158	597	0.001108195158471
+Plant_scoary	KEGG	ko00622	Xylene degradation 	10	474123	301	597	3.16847147469456E-13
+Plant_scoary	KEGG	ko02025	Biofilm formation - Pseudomonas aeruginosa 	21	474123	2395	597	1.22500620543531E-12
+Plant_scoary	KEGG	ko03070	Bacterial secretion system 	8	474123	3094	597	0.017995739628776
+Plant_scoary	KEGG	ko00791	Atrazine degradation 	2	474123	281	597	0.005608732037356
+Plant_scoary	KEGG	ko00430	Taurine and hypotaurine metabolism 	2	474123	449	597	0.019688576488306
+Plant_scoary	KEGG	ko00626	Naphthalene degradation 	3	474123	333	597	0.000902820961784
+Plant_scoary	KEGG	ko00830	Retinol metabolism 	1	474123	236	597	0.03617149032108
+Plant_scoary	KEGG	ko00364	Fluorobenzoate degradation 	11	474123	182	597	2.22964212304681E-17
+Plant_scoary	KEGG	ko00624	Polycyclic aromatic hydrocarbon degradation 	1	474123	91	597	0.00601851786732
+Plant_scoary	KEGG	ko00633	Nitrotoluene degradation 	1	474123	118	597	0.009921177595955
+Plant_scoary	KEGG	ko00642	Ethylbenzene degradation 	3	474123	259	597	0.000353634667261
+Plant_scoary	KEGG	ko00361	Chlorocyclohexane and chlorobenzene degradation 	3	474123	218	597	0.00018404534397
+Plant_scoary	KEGG	ko00623	Toluene degradation 	3	474123	163	597	6.01859892216242E-05
+Plant_scoary	KEGG	ko00120	Primary bile acid biosynthesis 	0	474123	1	597	0.001259166924464
+Plant_scoary	KEGG	ko05100	Bacterial invasion of epithelial cells 	3	474123	93	597	6.64787610242998E-06
+Unique	COG	S	Function unknown 	1023	385783	71438	4934	3.21285638350426E-05
+Unique	COG	V	Defense mechanisms 	105	385783	3214	4934	7.83499547009204E-18
+Unique	COG	L	Replication, recombination and repair 	483	385783	12169	4934	3.2719533004197E-105
+Unique	KEGG	ko05133	Pertussis 	29	474123	1312	4916	7.33662893630558E-05
+Unique	KEGG	ko05131	Shigellosis 	3	474123	4	4916	1.15440636799597E-08
+Unique	KEGG	ko05100	Bacterial invasion of epithelial cells 	8	474123	93	4916	6.04522556449507E-07
+Unique	KEGG	ko00232	Caffeine metabolism 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko05146	Amoebiasis 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko05206	MicroRNAs in cancer 	11	474123	114	4916	3.17187094372914E-09
+Unique	KEGG	ko00120	Primary bile acid biosynthesis 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko04320	Dorso-ventral axis formation 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko05150	Staphylococcus aureus infection 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko01059	Biosynthesis of enediyne antibiotics 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko00944	Flavone and flavonol biosynthesis 	0	474123	1	4916	0.010368617424834
+Unique	KEGG	ko01052	Type I polyketide structures 	0	474123	1	4916	0.010368617424834
+Vir_Accessory	COG	G	Carbohydrate transport and metabolism 	114	385783	26860	1386	0.030944738777861
+Vir_Accessory	COG	P	Inorganic ion transport and metabolism 	154	385783	22087	1386	3.67884063251658E-15
+Vir_Accessory	COG	M	Cell wall/membrane/envelope biogenesis 	342	385783	20398	1386	8.45322800410695E-129
+Vir_Accessory	COG	C	Energy production and conversion 	101	385783	18584	1386	2.19697402938759E-05
+Vir_Accessory	COG	T	Signal transduction mechanisms 	64	385783	11119	1386	0.000127637325769
+Vir_Accessory	COG	V	Defense mechanisms 	59	385783	3214	1386	2.37553096294854E-24
+Vir_Accessory	COG	U	Intracellular trafficking, secretion, and vesicular transport 	120	385783	20532	1386	1.14734104987461E-07
+Vir_Accessory	COG	N	Cell motility 	50	385783	8734	1386	0.000665385021011
+Vir_Accessory	KEGG	ko00051	Fructose and mannose metabolism 	91	474123	2764	1630	2.13282154580092E-58
+Vir_Accessory	KEGG	ko00520	Amino sugar and nucleotide sugar metabolism 	120	474123	4217	1630	1.69779348645172E-69
+Vir_Accessory	KEGG	ko02026	Biofilm formation - Escherichia coli 	68	474123	4162	1630	6.76528141975067E-26
+Vir_Accessory	KEGG	ko02010	ABC transporters 	103	474123	18862	1630	2.7115725520398E-06
+Vir_Accessory	KEGG	ko03070	Bacterial secretion system 	102	474123	3094	1630	2.714702918252E-65
+Vir_Accessory	KEGG	ko05111	Biofilm formation - Vibrio cholerae 	52	474123	2168	1630	8.89670156390215E-28
+Vir_Accessory	KEGG	ko00230	Purine metabolism 	36	474123	6714	1630	0.004263989334329
+Vir_Accessory	KEGG	ko02025	Biofilm formation - Pseudomonas aeruginosa 	166	474123	2395	1630	2.29829809601978E-157
+Vir_Accessory	KEGG	ko00521	Streptomycin biosynthesis 	48	474123	966	1630	3.99024169890495E-40
+Vir_Accessory	KEGG	ko00523	Polyketide sugar unit biosynthesis 	48	474123	417	1630	5.85065352312718E-58
+Vir_Accessory	KEGG	ko00525	Acarbose and validamycin biosynthesis 	43	474123	190	1630	4.23730778926725E-66
+Vir_Accessory	KEGG	ko01055	Biosynthesis of vancomycin group antibiotics 	21	474123	167	1630	5.66286539515176E-28
+Vir_Accessory	KEGG	ko00052	Galactose metabolism 	28	474123	2315	1630	5.69420149272532E-09
+Vir_Accessory	KEGG	ko05133	Pertussis 	8	474123	1312	1630	0.040243229582775
+Vir_Accessory	KEGG	ko05131	Shigellosis 	0	474123	4	1630	0.013680995209215
+Vir_Core	COG	T	Signal transduction mechanisms 	580	385783	11119	7804	2.02541761468098E-93
+Vir_Core	COG	N	Cell motility 	2225	385783	8734	7804	0
+Vir_Core	COG	H	Coenzyme transport and metabolism 	691	385783	14221	7804	5.53689097234539E-98
+Vir_Core	COG	U	Intracellular trafficking, secretion, and vesicular transport 	649	385783	20532	7804	6.95460330905488E-29
+Vir_Core	COG	M	Cell wall/membrane/envelope biogenesis 	1151	385783	20398	7804	5.56699439631088E-218
+Vir_Core	COG	Q	Secondary metabolites biosynthesis, transport and catabolism 	218	385783	9491	7804	0.026980005098765
+Vir_Core	COG	P	Inorganic ion transport and metabolism 	507	385783	22087	7804	0.001662530192907
+Vir_Core	KEGG	ko02020	Two-component system 	1028	474123	12521	11751	1.14021944430086E-245
+Vir_Core	KEGG	ko02030	Bacterial chemotaxis 	939	474123	2031	11751	0
+Vir_Core	KEGG	ko02040	Flagellar assembly 	1842	474123	2649	11751	0
+Vir_Core	KEGG	ko02026	Biofilm formation - Escherichia coli 	553	474123	4162	11751	2.98899323222283E-226
+Vir_Core	KEGG	ko02024	Quorum sensing 	267	474123	8896	11751	0.000828237390323
+Vir_Core	KEGG	ko05111	Biofilm formation - Vibrio cholerae 	360	474123	2168	11751	1.62428481951499E-179
+Vir_Core	KEGG	ko00540	Lipopolysaccharide biosynthesis 	499	474123	2070	11751	0
+Vir_Core	KEGG	ko04112	Cell cycle - Caulobacter 	36	474123	917	11751	0.003199581343076
+Vir_Core	KEGG	ko04212	Longevity regulating pathway - worm 	109	474123	512	11751	1.47419698049619E-67
+Vir_Core	KEGG	ko00521	Streptomycin biosynthesis 	145	474123	966	11751	1.30825882068904E-67
+Vir_Core	KEGG	ko00523	Polyketide sugar unit biosynthesis 	218	474123	417	11751	1.75124953321083E-231
+Vir_Core	KEGG	ko00525	Acarbose and validamycin biosynthesis 	145	474123	190	11751	1.54354673888393E-192
+Vir_Core	KEGG	ko02025	Biofilm formation - Pseudomonas aeruginosa 	288	474123	2395	11751	3.00608872493063E-107
+Vir_Core	KEGG	ko01503	Cationic antimicrobial peptide (CAMP) resistance 	355	474123	3740	11751	1.63149395605436E-101
+Vir_Core	KEGG	ko02010	ABC transporters 	648	474123	18862	11751	1.133546500024E-16
+Vir_Core	KEGG	ko00061	Fatty acid biosynthesis 	72	474123	1859	11751	0.000120078115358
+Vir_Core	KEGG	ko00333	Prodigiosin biosynthesis 	72	474123	832	11751	4.86170464283355E-20
+Vir_Core	KEGG	ko00780	Biotin metabolism 	72	474123	1791	11751	3.89215197415171E-05
+Vir_Core	KEGG	ko01040	Biosynthesis of unsaturated fatty acids 	72	474123	943	11751	4.42650931920436E-17
+Vir_Core	KEGG	ko01053	Biosynthesis of siderophore group nonribosomal peptides 	145	474123	755	11751	1.74762045500739E-82
+Vir_Core	KEGG	ko01055	Biosynthesis of vancomycin group antibiotics 	72	474123	167	11751	1.46800232367704E-70
+Vir_Core	KEGG	ko00520	Amino sugar and nucleotide sugar metabolism 	506	474123	4217	11751	2.99699710282517E-187
+Vir_Core	KEGG	ko01501	beta-Lactam resistance 	218	474123	2882	11751	1.02289524498073E-46
+Vir_Core	KEGG	ko03070	Bacterial secretion system 	214	474123	3094	11751	4.70832781664835E-40
+Vir_Core	KEGG	ko04626	Plant-pathogen interaction 	72	474123	748	11751	1.10504432504317E-22
+Vir_Core	KEGG	ko05133	Pertussis 	72	474123	1312	11751	3.54796061198492E-10
+Vir_Core	KEGG	ko00040	Pentose and glucuronate interconversions 	215	474123	1864	11751	3.23286060456662E-77
+Vir_Core	KEGG	ko00052	Galactose metabolism 	143	474123	2315	11751	8.75314828213225E-23
+Vir_Core	KEGG	ko00500	Starch and sucrose metabolism 	216	474123	3353	11751	6.17052208863826E-36
+Vir_Core	KEGG	ko00860	Porphyrin metabolism 	218	474123	1465	11751	1.05480908033992E-99
+Vir_Core	KEGG	ko00030	Pentose phosphate pathway 	145	474123	3073	11751	2.83139150863741E-13
+Vir_Core	KEGG	ko00480	Glutathione metabolism 	72	474123	1920	11751	0.000303099545006
+Vir_Core	KEGG	ko03018	RNA degradation 	72	474123	1283	11751	1.34491527205451E-10
+Vir_Core	KEGG	ko04940	Type I diabetes mellitus 	72	474123	73	11751	4.79180048352781E-118
+Vir_Core	KEGG	ko05134	Legionellosis 	72	474123	295	11751	5.30012462036126E-50
+Vir_Core	KEGG	ko05152	Tuberculosis 	72	474123	291	11751	1.8628986163694E-50
+Vir_Core	KEGG	ko04213	Longevity regulating pathway - multiple species 	72	474123	365	11751	3.99614984174899E-43
+Vir_Core	KEGG	ko00562	Inositol phosphate metabolism 	71	474123	1117	11751	6.39526634792242E-13
+Vir_Core	KEGG	ko00565	Ether lipid metabolism 	71	474123	136	11751	1.89757930145736E-77
+Vir_Core	KEGG	ko04919	Thyroid hormone signaling pathway 	71	474123	72	11751	1.94499341844761E-116
+Vir_Core	KEGG	ko00053	Ascorbate and aldarate metabolism 	71	474123	1363	11751	4.03028655968152E-09

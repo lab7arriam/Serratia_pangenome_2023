@@ -1,0 +1,202 @@
+Ontology	Term	Annotation	Annotated	Significant	Expected	P_val
+GO:biological_process	GO:0006107	oxaloacetate metabolic process	72	72	0.18	1E-30
+GO:biological_process	GO:0035335	peptidyl-tyrosine dephosphorylation	70	48	0.17	1E-30
+GO:biological_process	GO:0006771	riboflavin metabolic process	436	72	1.07	1E-30
+GO:biological_process	GO:0009231	riboflavin biosynthetic process	436	72	1.07	1E-30
+GO:biological_process	GO:0042726	flavin-containing compound metabolic pro...	436	72	1.07	1E-30
+GO:biological_process	GO:0042727	flavin-containing compound biosynthetic ...	436	72	1.07	1E-30
+GO:biological_process	GO:0009242	colanic acid biosynthetic process	306	50	0.75	1E-30
+GO:biological_process	GO:0046377	colanic acid metabolic process	306	50	0.75	1E-30
+GO:biological_process	GO:0006470	protein dephosphorylation	866	48	2.13	1E-30
+GO:biological_process	GO:0042364	water-soluble vitamin biosynthetic proce...	3006	72	7.4	1E-30
+GO:biological_process	GO:0009110	vitamin biosynthetic process	3077	72	7.58	1E-30
+GO:biological_process	GO:0006767	water-soluble vitamin metabolic process	3446	72	8.49	1E-30
+GO:biological_process	GO:0006766	vitamin metabolic process	3517	72	8.66	1E-30
+GO:biological_process	GO:0043648	dicarboxylic acid metabolic process	3888	72	9.58	1E-30
+GO:biological_process	GO:0033692	cellular polysaccharide biosynthetic pro...	3309	56	8.15	1.1E-29
+GO:biological_process	GO:0000271	polysaccharide biosynthetic process	3343	56	8.23	1.8E-29
+GO:biological_process	GO:0034637	cellular carbohydrate biosynthetic proce...	3382	56	8.33	3.1E-29
+GO:biological_process	GO:0019249	lactate biosynthetic process	281	23	0.69	8.7E-28
+GO:biological_process	GO:0018130	heterocycle biosynthetic process	27745	158	68.34	1E-27
+GO:biological_process	GO:0044264	cellular polysaccharide metabolic proces...	3810	56	9.38	1.1E-26
+GO:biological_process	GO:1901362	organic cyclic compound biosynthetic pro...	28397	158	69.95	1.4E-26
+GO:biological_process	GO:0005976	polysaccharide metabolic process	3953	56	9.74	6.4E-26
+GO:biological_process	GO:0016051	carbohydrate biosynthetic process	4734	56	11.66	3.2E-22
+GO:biological_process	GO:0019243	methylglyoxal catabolic process to D-lac...	499	23	1.23	4.4E-22
+GO:biological_process	GO:0061727	methylglyoxal catabolic process to lacta...	499	23	1.23	4.4E-22
+GO:biological_process	GO:0016311	dephosphorylation	3490	48	8.6	9.6E-22
+GO:biological_process	GO:0017144	drug metabolic process	9172	74	22.59	1.2E-19
+GO:biological_process	GO:0051596	methylglyoxal catabolic process	656	23	1.62	1.9E-19
+GO:biological_process	GO:0044281	small molecule metabolic process	37317	169	91.92	7.2E-19
+GO:biological_process	GO:0006089	lactate metabolic process	714	23	1.76	1.2E-18
+GO:biological_process	GO:0044249	cellular biosynthetic process	54898	216	135.23	1.3E-18
+GO:biological_process	GO:0009438	methylglyoxal metabolic process	729	23	1.8	1.9E-18
+GO:biological_process	GO:0042182	ketone catabolic process	729	23	1.8	1.9E-18
+GO:biological_process	GO:1901576	organic substance biosynthetic process	55077	216	135.67	2E-18
+GO:biological_process	GO:0034645	cellular macromolecule biosynthetic proc...	27758	139	68.37	2.1E-18
+GO:biological_process	GO:0046185	aldehyde catabolic process	846	24	2.08	3.8E-18
+GO:biological_process	GO:0044271	cellular nitrogen compound biosynthetic ...	35224	161	86.76	4.5E-18
+GO:biological_process	GO:0009058	biosynthetic process	55514	216	136.74	5.8E-18
+GO:biological_process	GO:0006351	transcription, DNA-templated	11736	81	28.91	1.6E-17
+GO:biological_process	GO:0009059	macromolecule biosynthetic process	28447	139	70.07	1.9E-17
+GO:biological_process	GO:0044262	cellular carbohydrate metabolic process	6242	56	15.38	7.8E-17
+GO:biological_process	GO:0097659	nucleic acid-templated transcription	12246	81	30.16	1.8E-16
+GO:biological_process	GO:0032774	RNA biosynthetic process	12537	81	30.88	6.7E-16
+GO:biological_process	GO:0071704	organic substance metabolic process	92802	293	228.59	3.5E-15
+GO:biological_process	GO:0044237	cellular metabolic process	93997	293	231.53	4E-14
+GO:biological_process	GO:0044283	small molecule biosynthetic process	18820	95	46.36	3.7E-12
+GO:biological_process	GO:1901617	organic hydroxy compound biosynthetic pr...	1511	23	3.72	7.7E-12
+GO:biological_process	GO:0006313	transposition, DNA-mediated	26	6	0.06	4.7E-11
+GO:biological_process	GO:0006970	response to osmotic stress	2046	25	5.04	9.6E-11
+GO:biological_process	GO:0006464	cellular protein modification process	7521	48	18.53	2E-09
+GO:biological_process	GO:0036211	protein modification process	7523	48	18.53	2E-09
+GO:biological_process	GO:0005975	carbohydrate metabolic process	10302	56	25.38	2.3E-08
+GO:biological_process	GO:0006081	cellular aldehyde metabolic process	2706	25	6.67	2.5E-08
+GO:biological_process	GO:0019752	carboxylic acid metabolic process	23134	95	56.98	1.8E-07
+GO:biological_process	GO:0032196	transposition	98	6	0.24	1.9E-07
+GO:biological_process	GO:0046483	heterocycle metabolic process	47819	164	117.79	1.9E-07
+GO:biological_process	GO:0043436	oxoacid metabolic process	23497	95	57.88	3.7E-07
+GO:biological_process	GO:1901615	organic hydroxy compound metabolic proce...	2717	23	6.69	4.2E-07
+GO:biological_process	GO:0008152	metabolic process	104420	295	257.21	5.3E-07
+GO:biological_process	GO:1901137	carbohydrate derivative biosynthetic pro...	11395	56	28.07	6.1E-07
+GO:biological_process	GO:0006082	organic acid metabolic process	23867	95	58.79	7.6E-07
+GO:biological_process	GO:0042180	cellular ketone metabolic process	2877	23	7.09	1.1E-06
+GO:biological_process	GO:1901360	organic cyclic compound metabolic proces...	49388	164	121.65	1.8E-06
+GO:biological_process	GO:0034654	nucleobase-containing compound biosynthe...	21385	86	52.68	2.1E-06
+GO:biological_process	GO:0032973	amino acid export across plasma membrane	232	7	0.57	2.1E-06
+GO:biological_process	GO:0033228	cysteine export across plasma membrane	232	7	0.57	2.1E-06
+GO:biological_process	GO:0042883	cysteine transport	232	7	0.57	2.1E-06
+GO:biological_process	GO:0140115	export across plasma membrane	232	7	0.57	2.1E-06
+GO:biological_process	GO:1903712	cysteine transmembrane transport	232	7	0.57	2.1E-06
+GO:biological_process	GO:0045226	extracellular polysaccharide biosyntheti...	178	6	0.44	6.1E-06
+GO:biological_process	GO:0046379	extracellular polysaccharide metabolic p...	178	6	0.44	6.1E-06
+GO:biological_process	GO:0019043	establishment of viral latency	28	3	0.07	4.6E-05
+GO:biological_process	GO:0075713	establishment of integrated proviral lat...	28	3	0.07	4.6E-05
+GO:biological_process	GO:0019985	translesion synthesis	161	5	0.4	5.4E-05
+GO:biological_process	GO:0016070	RNA metabolic process	23380	84	57.59	0.00018
+GO:biological_process	GO:0072330	monocarboxylic acid biosynthetic process	4081	23	10.05	0.00024
+GO:biological_process	GO:0006301	postreplication repair	233	5	0.57	0.00031
+GO:biological_process	GO:0046685	response to arsenic-containing substance	135	4	0.33	0.00037
+GO:biological_process	GO:0044260	cellular macromolecule metabolic process	45622	142	112.38	0.0005
+GO:biological_process	GO:0000101	sulfur amino acid transport	667	7	1.64	0.00147
+GO:biological_process	GO:0034641	cellular nitrogen compound metabolic pro...	55429	164	136.53	0.00159
+GO:biological_process	GO:0019045	latent virus replication	103	3	0.25	0.00218
+GO:biological_process	GO:0019046	release from viral latency	103	3	0.25	0.00218
+GO:biological_process	GO:0032359	provirus excision	103	3	0.25	0.00218
+GO:biological_process	GO:0019438	aromatic compound biosynthetic process	26123	86	64.35	0.0023
+GO:biological_process	GO:0019042	viral latency	107	3	0.26	0.00243
+GO:biological_process	GO:0001952	regulation of cell-matrix adhesion	1	1	0	0.00246
+GO:biological_process	GO:0001954	positive regulation of cell-matrix adhes...	1	1	0	0.00246
+GO:biological_process	GO:0007044	cell-substrate junction assembly	1	1	0	0.00246
+GO:biological_process	GO:0007045	cell-substrate adherens junction assembl...	1	1	0	0.00246
+GO:biological_process	GO:0007160	cell-matrix adhesion	1	1	0	0.00246
+GO:biological_process	GO:0007166	cell surface receptor signaling pathway	1	1	0	0.00246
+GO:biological_process	GO:0007229	integrin-mediated signaling pathway	1	1	0	0.00246
+GO:biological_process	GO:0007565	female pregnancy	1	1	0	0.00246
+GO:biological_process	GO:0010811	positive regulation of cell-substrate ad...	1	1	0	0.00246
+GO:biological_process	GO:0030198	extracellular matrix organization	1	1	0	0.00246
+GO:biological_process	GO:0032501	multicellular organismal process	1	1	0	0.00246
+GO:biological_process	GO:0033622	integrin activation	1	1	0	0.00246
+GO:biological_process	GO:0033627	cell adhesion mediated by integrin	1	1	0	0.00246
+GO:biological_process	GO:0034329	cell junction assembly	1	1	0	0.00246
+GO:biological_process	GO:0034330	cell junction organization	1	1	0	0.00246
+GO:biological_process	GO:0034332	adherens junction organization	1	1	0	0.00246
+GO:biological_process	GO:0034333	adherens junction assembly	1	1	0	0.00246
+GO:biological_process	GO:0043062	extracellular structure organization	1	1	0	0.00246
+GO:biological_process	GO:0044703	multi-organism reproductive process	1	1	0	0.00246
+GO:biological_process	GO:0044706	multi-multicellular organism process	1	1	0	0.00246
+GO:biological_process	GO:0045785	positive regulation of cell adhesion	1	1	0	0.00246
+GO:biological_process	GO:0048041	focal adhesion assembly	1	1	0	0.00246
+GO:biological_process	GO:0051893	regulation of focal adhesion assembly	1	1	0	0.00246
+GO:biological_process	GO:0051894	positive regulation of focal adhesion as...	1	1	0	0.00246
+GO:biological_process	GO:0071230	cellular response to amino acid stimulus	1	1	0	0.00246
+GO:biological_process	GO:0090109	regulation of cell-substrate junction as...	1	1	0	0.00246
+GO:biological_process	GO:1901888	regulation of cell junction assembly	1	1	0	0.00246
+GO:biological_process	GO:1901890	positive regulation of cell junction ass...	1	1	0	0.00246
+GO:biological_process	GO:1903391	regulation of adherens junction organiza...	1	1	0	0.00246
+GO:biological_process	GO:1903393	positive regulation of adherens junction...	1	1	0	0.00246
+GO:biological_process	GO:0000731	DNA synthesis involved in DNA repair	394	5	0.97	0.00312
+GO:biological_process	GO:0009987	cellular process	113510	299	279.6	0.00352
+GO:biological_process	GO:0006807	nitrogen compound metabolic process	75906	212	186.97	0.00383
+GO:biological_process	GO:0043708	cell adhesion involved in biofilm format...	131	3	0.32	0.0043
+GO:biological_process	GO:0031589	cell-substrate adhesion	277	4	0.68	0.00513
+GO:biological_process	GO:0045903	positive regulation of translational fid...	149	3	0.37	0.00614
+GO:biological_process	GO:0009240	isopentenyl diphosphate biosynthetic pro...	295	4	0.73	0.00638
+GO:biological_process	GO:0046490	isopentenyl diphosphate metabolic proces...	295	4	0.73	0.00638
+GO:biological_process	GO:0043412	macromolecule modification	13748	48	33.86	0.00898
+GO:biological_process	GO:0090304	nucleic acid metabolic process	30111	92	74.17	0.01294
+GO:biological_process	GO:0044403	symbiont process	840	6	2.07	0.0187
+GO:biological_process	GO:0046292	formaldehyde metabolic process	85	2	0.21	0.01888
+GO:biological_process	GO:0015074	DNA integration	246	3	0.61	0.02341
+GO:biological_process	GO:0071897	DNA biosynthetic process	684	5	1.68	0.02813
+GO:biological_process	GO:1901135	carbohydrate derivative metabolic proces...	17715	56	43.64	0.0303
+GO:biological_process	GO:0044409	entry into host	293	3	0.72	0.03647
+GO:biological_process	GO:0051828	entry into other organism involved in sy...	293	3	0.72	0.03647
+GO:biological_process	GO:0010467	gene expression	28427	84	70.02	0.03758
+GO:biological_process	GO:0007155	cell adhesion	548	4	1.35	0.04767
+GO:biological_process	GO:0044419	interspecies interaction between organis...	1057	6	2.6	0.04842
+GO:cellular_component	GO:0044424	intracellular part	72809	292	180.18	1E-30
+GO:cellular_component	GO:0005737	cytoplasm	69859	287	172.88	1E-30
+GO:cellular_component	GO:0005622	intracellular	72953	292	180.53	1E-30
+GO:cellular_component	GO:0009355	DNA polymerase V complex	90	5	0.22	3.3E-06
+GO:cellular_component	GO:0019012	virion	25	3	0.06	3.3E-05
+GO:cellular_component	GO:0019015	viral genome	25	3	0.06	3.3E-05
+GO:cellular_component	GO:0019038	provirus	25	3	0.06	3.3E-05
+GO:cellular_component	GO:0044423	virion part	25	3	0.06	3.3E-05
+GO:cellular_component	GO:0005581	collagen trimer	1	1	0	0.0025
+GO:cellular_component	GO:0005593	FACIT collagen trimer	1	1	0	0.0025
+GO:cellular_component	GO:0005597	collagen type XVI trimer	1	1	0	0.0025
+GO:cellular_component	GO:0005783	endoplasmic reticulum	1	1	0	0.0025
+GO:cellular_component	GO:0005788	endoplasmic reticulum lumen	1	1	0	0.0025
+GO:cellular_component	GO:0012505	endomembrane system	1	1	0	0.0025
+GO:cellular_component	GO:0044432	endoplasmic reticulum part	1	1	0	0.0025
+GO:cellular_component	GO:0009289	pilus	441	4	1.09	0.0247
+GO:cellular_component	GO:0042575	DNA polymerase complex	669	5	1.66	0.0263
+GO:molecular_function	GO:0000906	6,7-dimethyl-8-ribityllumazine synthase ...	72	72	0.2	1E-30
+GO:molecular_function	GO:0019159	nicotinamide-nucleotide amidase activity	51	51	0.14	1E-30
+GO:molecular_function	GO:0004725	protein tyrosine phosphatase activity	70	48	0.19	1E-30
+GO:molecular_function	GO:0016765	transferase activity, transferring alkyl...	2327	72	6.33	1E-30
+GO:molecular_function	GO:0004721	phosphoprotein phosphatase activity	794	48	2.16	1E-30
+GO:molecular_function	GO:0016811	hydrolase activity, acting on carbon-nit...	1971	51	5.36	1E-30
+GO:molecular_function	GO:0008767	UDP-galactopyranose mutase activity	19	13	0.05	9.5E-30
+GO:molecular_function	GO:0019172	glyoxalase III activity	281	23	0.76	8E-27
+GO:molecular_function	GO:0016810	hydrolase activity, acting on carbon-nit...	3408	51	9.27	8.5E-23
+GO:molecular_function	GO:0016791	phosphatase activity	3127	48	8.5	6.2E-22
+GO:molecular_function	GO:0000287	magnesium ion binding	7188	72	19.54	6.8E-22
+GO:molecular_function	GO:0003998	acylphosphatase activity	8	8	0.02	2.8E-21
+GO:molecular_function	GO:0003697	single-stranded DNA binding	1004	27	2.73	1.3E-18
+GO:molecular_function	GO:0042578	phosphoric ester hydrolase activity	4290	48	11.66	1.7E-16
+GO:molecular_function	GO:0033229	cysteine transmembrane transporter activ...	15	7	0.04	6.5E-15
+GO:molecular_function	GO:0004452	isopentenyl-diphosphate delta-isomerase ...	4	4	0.01	5.4E-11
+GO:molecular_function	GO:0004803	transposase activity	26	6	0.07	8.5E-11
+GO:molecular_function	GO:0046872	metal ion binding	18350	95	49.9	2.3E-10
+GO:molecular_function	GO:0043169	cation binding	19286	96	52.44	1.5E-09
+GO:molecular_function	GO:0005506	iron ion binding	2109	22	5.73	1.2E-07
+GO:molecular_function	GO:0016788	hydrolase activity, acting on ester bond...	9813	52	26.68	3.2E-06
+GO:molecular_function	GO:0140096	catalytic activity, acting on a protein	8889	48	24.17	4.9E-06
+GO:molecular_function	GO:0016836	hydro-lyase activity	2865	23	7.79	5.2E-06
+GO:molecular_function	GO:0016787	hydrolase activity	29364	116	79.84	6.3E-06
+GO:molecular_function	GO:0008794	arsenate reductase (glutaredoxin) activi...	4	2	0.01	4.4E-05
+GO:molecular_function	GO:0030614	oxidoreductase activity, acting on phosp...	4	2	0.01	4.4E-05
+GO:molecular_function	GO:0016835	carbon-oxygen lyase activity	3303	23	8.98	4.7E-05
+GO:molecular_function	GO:0008979	prophage integrase activity	28	3	0.08	6.2E-05
+GO:molecular_function	GO:0000099	sulfur amino acid transmembrane transpor...	377	7	1.03	8.9E-05
+GO:molecular_function	GO:0016863	intramolecular oxidoreductase activity, ...	150	4	0.41	0.0008
+GO:molecular_function	GO:0002196	Ser-tRNA(Ala) hydrolase activity	76	3	0.21	0.0012
+GO:molecular_function	GO:0005102	signaling receptor binding	1	1	0	0.0027
+GO:molecular_function	GO:0005178	integrin binding	1	1	0	0.0027
+GO:molecular_function	GO:0050839	cell adhesion molecule binding	1	1	0	0.0027
+GO:molecular_function	GO:0016866	intramolecular transferase activity	2098	13	5.7	0.0055
+GO:molecular_function	GO:0050660	flavin adenine dinucleotide binding	2167	13	5.89	0.0071
+GO:molecular_function	GO:0003887	DNA-directed DNA polymerase activity	451	5	1.23	0.0082
+GO:molecular_function	GO:0034061	DNA polymerase activity	451	5	1.23	0.0082
+GO:molecular_function	GO:0008907	integrase activity	173	3	0.47	0.012
+GO:molecular_function	GO:0015175	neutral amino acid transmembrane transpo...	899	7	2.44	0.0123
+GO:molecular_function	GO:0004024	alcohol dehydrogenase activity, zinc-dep...	6	1	0.02	0.0162
+GO:molecular_function	GO:0051903	S-(hydroxymethyl)glutathione dehydrogena...	6	1	0.02	0.0162
+GO:molecular_function	GO:0030613	oxidoreductase activity, acting on phosp...	76	2	0.21	0.0184
+GO:molecular_function	GO:0030611	arsenate reductase activity	77	2	0.21	0.0189
+GO:molecular_function	GO:1901682	sulfur compound transmembrane transporte...	1016	7	2.76	0.0223
+GO:molecular_function	GO:0009009	site-specific recombinase activity	246	3	0.67	0.0301
+GO:molecular_function	GO:0000150	recombinase activity	252	3	0.69	0.032
+GO:molecular_function	GO:0043167	ion binding	34351	109	93.4	0.0353

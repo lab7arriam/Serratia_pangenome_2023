@@ -1,0 +1,766 @@
+Gene	Annotation	Host	Number_pos_present_in	Number_neg_present_in	Number_pos_not_present_in	Number_neg_not_present_in	Num	P_val	None_num	Human_num	Insect_num	Plant_num
+group_11317	hypothetical protein	Human	23	5	14	31	28	2.95412706999535E-05	3	23	1	1
+group_11502	hypothetical protein;transporter	Human	24	6	13	30	30	3.90031044649479E-05	4	24	1	1
+group_10140	YgdI/YgdR family lipoprotein	Human	34	18	3	18	52	8.13418528470448E-05	16	34	1	1
+group_9367	YgdI/YgdR family lipoprotein	Human	34	18	3	18	52	8.13418528470448E-05	16	34	1	1
+group_9308	MgtC/SapB family protein	Human	35	20	2	16	55	0.000105188474835	16	35	1	3
+group_8256	LysR family transcriptional regulator	Human	35	20	2	16	55	0.000105188474835	16	35	1	3
+group_6428	ABC transporter ATP-binding protein	Human	35	20	2	16	55	0.000105188474835	16	35	1	3
+group_9856	ABC transporter permease subunit	Human	35	20	2	16	55	0.000105188474835	16	35	1	3
+group_9232	VOC family protein	Human	37	26	0	10	63	0.000409104545318	20	37	3	3
+group_9855	porin	Human	34	20	3	16	54	0.000461890733353	16	34	1	3
+group_7387	ABC transporter ATP-binding protein	Human	34	20	3	16	54	0.000461890733353	16	34	1	3
+group_11311	ankyrin repeat domain-containing protein	Human	31	16	6	20	47	0.000586526601225	14	31	1	1
+group_11682	phage baseplate assembly protein V	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11033	hypothetical protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_8593	phage tail assembly protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11681	replication endonuclease	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_10849	GpE family phage tail protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_8592	phage tail sheath protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_13367	phage major tail tube protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11605	phage tail protein I	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_10652	hypothetical protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_8121	helix-turn-helix domain-containing protein;phage repressor protein CI	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11944	GPW/gp25 family protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11535	TraR/DksA C4-type zinc finger protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_9081	lysozyme	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_7745	hypothetical protein	Human	13	1	24	35	14	0.000604901795957	1	13	0	0
+group_11909	baseplate assembly protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_11034	phage tail protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_9080	tail protein X	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_1375	hypothetical protein	Human	13	1	24	35	14	0.000604901795957	0	13	0	1
+group_9287	CopG family transcriptional regulator;ribbon-helix-helix domain-containing protein;ribbon-helix-helix protein CopG family	Human	33	19	4	17	52	0.000721129272039	16	33	1	2
+group_6266	type II toxin-antitoxin system VapC family toxin	Human	33	19	4	17	52	0.000721129272039	16	33	1	2
+group_9630	GNAT family N-acetyltransferase	Human	23	8	14	28	31	0.000832498420011	6	23	1	1
+group_11594	gamma-glutamylcyclotransferase	Human	28	13	9	23	41	0.000920947919418	12	28	1	0
+group_9924	DUF1937 family protein	Human	28	13	9	23	41	0.000920947919418	11	28	1	1
+group_11822	undecaprenyl-phosphate glucose phosphotransferase	Human	10	0	27	36	10	0.000969729292606	0	10	0	0
+group_11970	hypothetical protein	Human	32	18	5	18	50	0.001010915338378	13	32	2	3
+group_8312	metallophosphoesterase	Human	19	5	18	31	24	0.001010915338378	4	19	1	0
+group_11400	helix-turn-helix domain-containing protein;helix-turn-helix transcriptional regulator	Human	19	5	18	31	24	0.001010915338378	4	19	1	0
+group_10734	hypothetical protein	Human	19	5	18	31	24	0.001010915338378	4	19	1	0
+group_9809	VUT family protein	Human	19	5	18	31	24	0.001010915338378	4	19	1	0
+group_9174	type II toxin-antitoxin system RelE/ParE family toxin	Human	12	1	25	35	13	0.001377926113212	1	12	0	0
+group_6191	helix-turn-helix domain-containing protein	Human	12	1	25	35	13	0.001377926113212	1	12	0	0
+group_10848	tail fiber assembly protein	Human	12	1	25	35	13	0.001377926113212	0	12	0	1
+group_8926	PLP-dependent aminotransferase family protein;aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	Human	36	25	1	11	61	0.001377926113212	19	36	3	3
+group_6598	carboxymuconolactone decarboxylase family protein	Human	36	25	1	11	61	0.001377926113212	19	36	3	3
+group_8244	DNA-binding protein	Human	21	7	16	29	28	0.001595015084635	6	21	0	1
+group_9887	phosphatase PAP2 family protein	Human	21	7	16	29	28	0.001595015084635	5	21	1	1
+group_10198	YrzE family protein;CAP-Gly protein	Human	30	16	7	20	46	0.001595015084635	14	30	1	1
+group_6283	Tar ligand binding domain-containing protein;methyl-accepting chemotaxis protein	Human	30	16	7	20	46	0.001595015084635	10	30	3	3
+group_12412	MFS transporter	Human	18	5	19	31	23	0.002182797452807	3	18	0	2
+group_6808	hypothetical protein	Human	18	5	19	31	23	0.002182797452807	3	18	1	1
+group_5374	AEC family transporter	Human	18	5	19	31	23	0.002182797452807	4	18	1	0
+group_10397	polysaccharide pyruvyl transferase family protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_6223	lipopolysaccharide biosynthesis protein;oligosaccharide flippase family protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_12134	glycosyltransferase family 4 protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_9747	glycosyltransferase;hypothetical protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_5888	MFS transporter	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_12031	hypothetical protein;glycoside hydrolase family 5 protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_9546	amidohydrolase;M20 family metallopeptidase	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_5378	LysR family transcriptional regulator	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_11838	glycosyltransferase	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_7907	LysE family translocator	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_4422	IS6-like element IS26 family transposase	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_11452	hypothetical protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_7817	phytanoyl-CoA dioxygenase family protein	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_4378	IS200/IS605 family transposase	Human	9	0	28	36	9	0.002251157286406	0	9	0	0
+group_6541	NAD(P)/FAD-dependent oxidoreductase	Human	26	12	11	24	38	0.002270626875831	10	26	1	1
+group_6543	AraC family transcriptional regulator	Human	19	6	18	30	25	0.00279217615231	5	19	1	0
+group_9926	AzlC family ABC transporter permease	Human	19	6	18	30	25	0.00279217615231	5	19	1	0
+group_9921	hypothetical protein	Human	19	6	18	30	25	0.00279217615231	5	19	0	1
+group_8777	pyridoxamine 5'-phosphate oxidase family protein	Human	35	24	2	12	59	0.002859556054616	19	35	3	2
+group_9198	diguanylate cyclase	Human	35	24	2	12	59	0.002859556054616	18	35	4	2
+group_10258	acyltransferase	Human	13	2	24	34	15	0.002859556054616	1	13	0	1
+group_13664	phage tail protein	Human	11	1	26	35	12	0.003052049782532	0	11	0	1
+group_8651	phage late control D family protein	Human	11	1	26	35	12	0.003052049782532	0	11	0	1
+group_8650	phage tail tape measure protein	Human	11	1	26	35	12	0.003052049782532	0	11	0	1
+group_11806	heavy-metal-associated domain-containing protein	Human	16	4	21	32	20	0.003349480445167	3	16	0	1
+group_6523	hypothetical protein	Human	16	4	21	32	20	0.003349480445167	3	16	1	0
+group_12126	heavy metal translocating P-type ATPase	Human	16	4	21	32	20	0.003349480445167	3	16	0	1
+group_12015	Cu(I)-responsive transcriptional regulator	Human	16	4	21	32	20	0.003349480445167	3	16	0	1
+group_9944	hypothetical protein	Human	30	17	7	19	47	0.003374700643594	16	30	1	0
+group_6076	iron-sulfur cluster repair protein YtfE	Human	29	16	8	20	45	0.003896999666332	15	29	1	0
+group_8000	DJ-1/PfpI family protein;glutamine amidotransferase	Human	22	9	15	27	31	0.004331560616546	7	22	1	1
+group_9923	glycerol kinase	Human	26	13	11	23	39	0.004858357205794	11	26	1	1
+group_9567	FAD-dependent oxidoreductase;NAD(P)-binding protein	Human	26	13	11	23	39	0.004858357205794	11	26	1	1
+group_6536	ethanolamine utilization protein EutH	Human	26	13	11	23	39	0.004858357205794	11	26	1	1
+group_5919	DeoR/GlpR family DNA-binding transcription regulator	Human	26	13	11	23	39	0.004858357205794	11	26	1	1
+group_5674	hypothetical protein	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_15061	transcriptional regulator	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_4436	carbapenem-hydrolyzing class A beta-lactamase KPC-2	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_10893	helix-turn-helix domain-containing protein	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_4423	IS6-like element IS26 family transposase	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_9159	antirestriction protein	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_2280	hypothetical protein	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_8720	hypothetical protein;Cro/CI family transcriptional regulator	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_1040	hypothetical protein	Human	8	0	29	36	8	0.005123323479408	0	8	0	0
+group_11972	spore coat U domain-containing protein	Human	18	6	19	30	24	0.005698443796094	4	18	1	1
+group_11185	spore coat U domain-containing protein	Human	18	6	19	30	24	0.005698443796094	4	18	1	1
+group_12661	hypothetical protein	Human	12	2	25	34	14	0.006016072016738	1	12	0	1
+group_12552	immunity 26/phosphotriesterase HocA family protein;hypothetical protein;phosphotriesterase	Human	10	1	27	35	11	0.006575976765483	1	10	0	0
+group_4255	biotin synthase BioB	Human	10	1	27	35	11	0.006575976765483	1	10	0	0
+group_10906	hypothetical protein	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_9791	hypothetical protein	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_9478	DUF943 family protein	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_12014	efflux transporter outer membrane subunit	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_6319	hypothetical protein	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_11371	efflux RND transporter periplasmic adaptor subunit	Human	15	4	22	32	19	0.006814588099343	3	15	0	1
+group_13170	AMP-binding protein;hypothetical protein;amino acid adenylation domain-containing protein;non-ribosomal peptide synthetase;alpha/beta fold hydrolase	Human	27	15	10	21	42	0.009344170646932	13	27	1	1
+group_5801	MipA/OmpV family protein	Human	13	3	24	33	16	0.009547089872671	1	13	1	1
+group_9510	M48 family metallopeptidase;M48 family metalloprotease	Human	13	3	24	33	16	0.009547089872671	1	13	1	1
+group_10565	glycosyltransferase family 9 protein	Human	26	14	11	22	40	0.009801450244255	13	26	1	0
+group_11282	GFA family protein	Human	23	11	14	25	34	0.009801450244255	8	23	1	2
+group_6978	hypothetical protein	Human	17	6	20	30	23	0.011147695628189	4	17	1	1
+group_10975	AzlD domain-containing protein	Human	17	6	20	30	23	0.011147695628189	5	17	1	0
+group_8863	hypothetical protein	Human	17	6	20	30	23	0.011147695628189	3	17	1	2
+group_13032	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_9850	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_5791	GntR family transcriptional regulator	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_14271	relaxosome protein TraM	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_13018	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_9154	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_2097	sodium:solute symporter family protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_14203	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_12999	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_8248	TraY domain-containing protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_754	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_13980	translesion error-prone DNA polymerase V autoproteolytic subunit	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_11470	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_7914	creatininase family protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_13087	tape measure protein;tape measure domain-containing protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_10573	beta-aspartyl-peptidase	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_6414	hypothetical protein	Human	7	0	30	36	7	0.011442089104011	0	7	0	0
+group_8193	GNAT family N-acetyltransferase	Human	37	30	0	6	67	0.011442089104011	26	37	2	2
+group_10579	ABC transporter ATP-binding protein/permease	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_12139	RhtX/FptX family siderophore transporter	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_7930	ABC transporter ATP-binding protein/permease	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_12046	PepSY domain-containing protein	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_5985	AraC family transcriptional regulator	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_11861	hypothetical protein	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_4376	IS200/IS605 family transposase	Human	11	2	26	34	13	0.012259729963793	1	11	0	1
+group_11517	TonB-dependent siderophore receptor	Human	11	2	26	34	13	0.012259729963793	2	11	0	0
+group_12404	LysR family transcriptional regulator	Human	30	19	7	17	49	0.013171703451538	14	30	3	2
+group_5828	hypothetical protein	Human	18	7	19	29	25	0.013171703451538	4	18	2	1
+group_11803	efflux RND transporter permease subunit	Human	14	4	23	32	18	0.013356267309173	3	14	0	1
+group_7489	urea transporter	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_11358	urease accessory protein UreE	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_6208	urease subunit beta	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_10358	urease accessory protein UreD	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_4149	HoxN/HupN/NixA family nickel/cobalt transporter	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_8423	urease accessory protein UreF	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_1600	urease subunit alpha	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_15012	urease subunit gamma	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_7726	urease accessory protein UreG	Human	14	4	23	32	18	0.013356267309173	2	14	1	1
+group_15064	helix-turn-helix domain-containing protein	Human	9	1	28	35	10	0.013784009230612	0	9	1	0
+group_8928	SDR family oxidoreductase	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_4444	GntR family transcriptional regulator	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_14960	hypothetical protein	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_7563	amidase	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_4384	IS200/IS605 family transposase	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_14849	type II toxin-antitoxin system RelE/ParE family toxin	Human	9	1	28	35	10	0.013784009230612	0	9	1	0
+group_7178	GTP-binding protein	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_3281	hypothetical protein	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_10697	alpha/beta hydrolase;alpha/beta fold hydrolase	Human	36	28	1	8	64	0.013784009230612	21	36	4	3
+group_11666	RepA leader peptide Tap	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_5927	polysaccharide deacetylase	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_2761	MFS transporter	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_7487	aldo/keto reductase	Human	36	28	1	8	64	0.013784009230612	22	36	4	2
+group_10996	incFII family plasmid replication initiator RepA	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_5319	SDR family oxidoreductase	Human	9	1	28	35	10	0.013784009230612	1	9	0	0
+group_9656	hypothetical protein	Human	19	8	18	28	27	0.014992092486798	5	19	1	2
+group_12059	glycoside hydrolase	Human	28	17	9	19	45	0.016550392040234	15	28	1	1
+group_11469	LacI family DNA-binding transcriptional regulator	Human	28	17	9	19	45	0.016550392040234	15	28	1	1
+group_6044	hypothetical protein	Human	28	17	9	19	45	0.016550392040234	15	28	1	1
+group_4575	TauD/TfdA family dioxygenase	Human	15	5	22	31	20	0.017209911061873	4	15	1	0
+group_7422	hypothetical protein	Human	12	3	25	33	15	0.018642135865226	2	12	1	0
+group_6779	hypothetical protein	Human	12	3	25	33	15	0.018642135865226	2	12	0	1
+group_6457	LysR family transcriptional regulator	Human	12	3	25	33	15	0.018642135865226	2	12	0	1
+group_10941	hypothetical protein	Human	12	3	25	33	15	0.018642135865226	2	12	1	0
+group_4379	IS200/IS605 family transposase	Human	12	3	25	33	15	0.018642135865226	2	12	0	1
+group_9780	GMC family oxidoreductase N-terminal domain-containing protein	Human	12	3	25	33	15	0.018642135865226	2	12	0	1
+group_6280	hypothetical protein	Human	22	11	15	25	33	0.018718402392067	10	22	1	0
+group_11478	ABC transporter ATP-binding protein;ATP-binding cassette domain-containing protein	Human	26	15	11	21	41	0.018718402392067	13	26	1	1
+group_538	TonB-dependent receptor	Human	25	14	12	22	39	0.019275711901306	13	25	1	0
+group_13351	sigma-70 family RNA polymerase sigma factor	Human	25	14	12	22	39	0.019275711901306	13	25	1	0
+group_11514	O-antigen ligase family protein	Human	25	14	12	22	39	0.019275711901306	13	25	1	0
+group_9523	energy transducer TonB;TonB family protein	Human	25	14	12	22	39	0.019275711901306	13	25	1	0
+group_8584	DUF4880 domain-containing protein	Human	25	14	12	22	39	0.019275711901306	13	25	1	0
+group_10343	winged helix-turn-helix domain-containing protein;hypothetical protein	Human	24	13	13	23	37	0.01946279477652	11	24	1	1
+group_9359	hypothetical protein	Human	16	6	21	30	22	0.020929271898222	5	16	0	1
+group_5407	helix-turn-helix transcriptional regulator	Human	16	6	21	30	22	0.020929271898222	5	16	0	1
+group_12208	DUF2975 domain-containing protein	Human	16	6	21	30	22	0.020929271898222	5	16	0	1
+group_10698	hypothetical protein	Human	16	6	21	30	22	0.020929271898222	5	16	0	1
+group_10095	GNAT family N-acetyltransferase	Human	35	27	2	9	62	0.024195611680242	20	35	4	3
+group_11127	ATP-binding protein	Human	35	27	2	9	62	0.024195611680242	22	35	2	3
+group_11960	hypothetical protein	Human	10	2	27	34	12	0.024195611680242	0	10	0	2
+group_10716	hypothetical protein	Human	10	2	27	34	12	0.024195611680242	2	10	0	0
+group_11140	hypothetical protein	Human	17	7	20	29	24	0.024381592934704	7	17	0	0
+group_10662	hypothetical protein	Human	17	7	20	29	24	0.024381592934704	4	17	2	1
+group_15033	antibiotic biosynthesis monooxygenase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12893	DUF2913 family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_11849	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_8551	helix-turn-helix domain-containing protein;MarR family transcriptional regulator	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5411	glycosyltransferase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_4911	IS481-like element ISKpn27 family transposase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_3537	PLP-dependent aspartate aminotransferase family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_14936	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12601	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_11540	TetR family transcriptional regulator	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_8432	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5203	cupin domain-containing protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_4735	recombinase family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_3231	EpsG family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_14797	barstar family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12580	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_10721	phage regulatory protein/antirepressor Ant	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_7658	type VI secretion system tip protein VgrG	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5144	serine dehydratase subunit alpha family protein;L-serine ammonia-lyase iron-sulfur-dependent subunit alpha	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_4734	Tn3-like element TnAs1 family transposase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_2557	sodium:proton antiporter	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_13953	protein tyrosine phosphatase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12463	LuxR family transcriptional regulator;LuxR C-terminal-related transcriptional regulator	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_9535	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5830	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5119	retron St85 family RNA-directed DNA polymerase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_4091	glycosyltransferase family 4 protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_864	tyrosine-protein kinase Wzc	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12962	tolA family protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12335	DUF3088 family protein;DUF3088 domain-containing protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_8726	ISL3 family transposase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5513	glutaredoxin 2;hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_5099	retron St85 family effector protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_3755	glycosyltransferase	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_728	hypothetical protein	Human	6	0	31	36	6	0.02509877609912	0	6	0	0
+group_12180	UDP-glucose 4-epimerase GalE	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_9631	NAD(P)H-dependent oxidoreductase	Human	37	31	0	5	68	0.02509877609912	26	37	3	2
+group_11329	response regulator	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_8819	RidA family protein	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_11016	DUF2076 domain-containing protein;DUF2076 family protein	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_7349	oxygenase MpaB family protein	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_10496	DNA-binding transcriptional regulator DsdC	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_2276	sugar ABC transporter ATP-binding protein	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_9967	hypothetical protein	Human	37	31	0	5	68	0.02509877609912	24	37	4	3
+group_9188	type VI secretion system ImpA family N-terminal domain-containing protein	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_4209	type VI secretion system baseplate subunit TssG	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_4310	type VI secretion system contractile sheath small subunit	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_1373	type VI secretion system baseplate subunit TssF	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_4308	type VI secretion system contractile sheath large subunit	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_475	type VI secretion system ATPase TssH	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_4306	Hcp family type VI secretion system effector	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_11168	DUF3289 family protein	Human	13	4	24	32	17	0.025228203652938	3	13	0	1
+group_4304	GPW/gp25 family protein	Human	13	4	24	32	17	0.025228203652938	3	13	1	0
+group_12519	hypothetical protein	Human	18	8	19	28	26	0.027470031873943	4	18	3	1
+group_12605	hypothetical protein	Human	8	1	29	35	9	0.028100653023418	1	8	0	0
+group_13023	hypothetical protein	Human	8	1	29	35	9	0.028100653023418	0	8	1	0
+group_12817	organomercurial transporter MerC	Human	8	1	29	35	9	0.028100653023418	1	8	0	0
+group_12789	mercury resistance co-regulator MerD	Human	8	1	29	35	9	0.028100653023418	1	8	0	0
+group_12730	PD-(D/E)XK nuclease-like domain-containing protein	Human	8	1	29	35	9	0.028100653023418	1	8	0	0
+group_9043	stability determinant;hypothetical protein	Human	19	9	18	27	28	0.030124912594613	9	19	0	0
+group_3781	type II toxin-antitoxin system RelE/ParE family toxin;type II toxin-antitoxin system mRNA interferase toxin RelE/StbE family	Human	19	9	18	27	28	0.030124912594613	9	19	0	0
+group_1109	choline BCCT transporter BetT	Human	27	17	10	19	44	0.032296835883313	15	27	1	1
+group_2076	hypothetical protein	Human	21	11	16	25	32	0.033951528977913	11	21	0	0
+group_12317	N-acetylglucosamine-binding protein GbpA	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_12011	hypothetical protein	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11798	MFS transporter	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11246	type II secretion system ATPase GspE	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_9513	L-ribulose-5-phosphate 3-epimerase	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_5810	L-ribulose-5-phosphate 4-epimerase	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_12159	general secretion pathway protein GspL	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11984	type II secretion system minor pseudopilin GspI	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11759	prepilin-type N-terminal cleavage/methylation domain-containing protein	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_10971	FidL-like protein	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_8896	HTH-type transcriptional regulator UlaR	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_2605	PTS ascorbate transporter subunit IIC	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_12116	type II secretion system minor pseudopilin GspJ	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11946	A24 family peptidase;prepilin peptidase	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11658	CadC family transcriptional regulator	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_10737	3-keto-L-gulonate-6-phosphate decarboxylase UlaD	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_8320	PTS ascorbate transporter subunit IIA	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_12093	type II secretion system protein M	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11935	hypothetical protein;general secretion pathway protein GspC	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11351	N-acetylmuramoyl-L-alanine amidase AmiA	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_10028	porin	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_6680	PTS ascorbate transporter subunit IIB	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_12041	ABC transporter substrate-binding protein	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11852	iron ABC transporter permease	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_11247	type II secretion system major pseudopilin GspG	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_9685	type II secretion system inner membrane protein GspF	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_6679	L-ascorbate 6-phosphate lactonase	Human	26	16	11	20	42	0.033951528977913	14	26	1	1
+group_9534	Fic family protein	Human	22	12	15	24	34	0.03506614799639	12	22	0	0
+group_8587	FliC/FljB family flagellin;flagellin FliC	Human	22	12	15	24	34	0.03506614799639	10	22	2	0
+group_5766	MarC family NAAT transporter	Human	11	3	26	33	14	0.035153142436326	2	11	1	0
+group_12639	lipoprotein;hypothetical protein	Human	11	3	26	33	14	0.035153142436326	1	11	1	1
+group_11975	hypothetical protein	Human	11	3	26	33	14	0.035153142436326	2	11	0	1
+group_10128	acyltransferase family protein;acyltransferase	Human	11	3	26	33	14	0.035153142436326	2	11	1	0
+group_7184	O-methyltransferase	Human	11	3	26	33	14	0.035153142436326	2	11	1	0
+group_10350	cupin domain-containing protein	Human	34	26	3	10	60	0.035153142436326	19	34	4	3
+group_7053	Hok/Gef family protein;type I toxin-antitoxin system Hok family toxin	Human	34	26	3	10	60	0.035153142436326	21	34	4	1
+group_11860	sugar glycosyltransferase	Human	24	14	13	22	38	0.035626755195032	13	24	1	0
+group_9192	TIR domain-containing protein;hypothetical protein	Human	24	14	13	22	38	0.035626755195032	12	24	2	0
+group_11836	ABC transporter ATP-binding protein;ATP-binding cassette domain-containing protein	Human	24	14	13	22	38	0.035626755195032	13	24	1	0
+group_11444	iron ABC transporter permease	Human	24	14	13	22	38	0.035626755195032	13	24	1	0
+group_10371	ABC transporter substrate-binding protein	Human	24	14	13	22	38	0.035626755195032	13	24	1	0
+group_11895	substrate-binding domain-containing protein	Human	24	14	13	22	38	0.035626755195032	13	24	1	0
+group_9556	non-ribosomal peptide synthetase	Human	24	14	13	22	38	0.035626755195032	11	24	1	2
+group_12405	NAD(P)H-dependent oxidoreductase	Human	30	21	7	15	51	0.04328716051544	16	30	3	2
+group_10300	PAS domain-containing protein	Human	12	4	25	32	16	0.045927273842891	3	12	1	0
+group_5003	hypothetical protein	Human	12	4	25	32	16	0.045927273842891	3	12	1	0
+group_8840	GNAT family N-acetyltransferase	Human	12	4	25	32	16	0.045927273842891	3	12	0	1
+group_8508	hypothetical protein;TfoX/Sxy family protein	Human	12	4	25	32	16	0.045927273842891	3	12	1	0
+group_5853	hypothetical protein	Human	12	4	25	32	16	0.045927273842891	3	12	1	0
+group_10559	cytochrome P450	Human	12	4	25	32	16	0.045927273842891	3	12	0	1
+group_5727	threo-3-hydroxy-L-aspartate ammonia-lyase	Human	12	4	25	32	16	0.045927273842891	3	12	1	0
+group_10930	hypothetical protein;DUF883 family protein;membrane protein	Human	33	25	4	11	58	0.045927273842891	19	33	3	3
+group_11762	hypothetical protein;phosphoribosylanthranilate isomerase	Human	9	2	28	34	11	0.046220155323689	0	9	0	2
+group_8809	hypothetical protein	Human	9	2	28	34	11	0.046220155323689	1	9	0	1
+group_4381	IS200/IS605 family transposase	Human	9	2	28	34	11	0.046220155323689	1	9	0	1
+group_11716	LLM class flavin-dependent oxidoreductase	Human	9	2	28	34	11	0.046220155323689	0	9	0	2
+group_6729	helix-turn-helix domain-containing protein	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_12882	Y-family DNA polymerase	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_11021	hypothetical protein	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_6226	UbiD family decarboxylase	Human	9	2	28	34	11	0.046220155323689	0	9	0	2
+group_11987	anthranilate phosphoribosyltransferase	Human	9	2	28	34	11	0.046220155323689	0	9	0	2
+group_10019	replicative DNA helicase	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_5440	DNA polymerase III subunit theta	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_11963	cysteine hydrolase	Human	9	2	28	34	11	0.046220155323689	0	9	0	2
+group_9516	hypothetical protein	Human	9	2	28	34	11	0.046220155323689	1	9	0	1
+group_4421	IS6-like element IS26 family transposase	Human	9	2	28	34	11	0.046220155323689	2	9	0	0
+group_11362	TetR/AcrR family transcriptional regulator	Human	35	28	2	8	63	0.046220155323689	21	35	4	3
+group_5883	sugar efflux transporter	Human	35	28	2	8	63	0.046220155323689	25	35	2	1
+group_12732	hypothetical protein	Insect	2	0	2	69	2	0.002283105022831	0	0	2	0
+group_12406	hypothetical protein	Insect	2	0	2	69	2	0.002283105022831	0	0	2	0
+group_3334	hypothetical protein	Insect	2	0	2	69	2	0.002283105022831	0	0	2	0
+group_8872	hypothetical protein	Insect	4	14	0	55	18	0.002811388881233	2	10	4	2
+group_10673	LysR family transcriptional regulator	Insect	4	15	0	54	19	0.003561092582895	5	8	4	2
+group_5758	hypothetical protein	Insect	2	1	2	68	3	0.006720689433404	1	0	2	0
+group_10569	GNAT family N-acetyltransferase	Insect	4	19	0	50	23	0.008135571419384	6	11	4	2
+group_7153	cysteine hydrolase	Insect	3	9	1	60	12	0.012784469373318	4	3	3	2
+group_11680	isochorismatase family protein	Insect	3	9	1	60	12	0.012784469373318	5	4	3	0
+group_10207	FUSC family protein	Insect	3	9	1	60	12	0.012784469373318	4	3	3	2
+group_8250	hypothetical protein	Insect	3	9	1	60	12	0.012784469373318	5	2	3	2
+group_8007	glycosyltransferase;glycosyltransferase family 2 protein	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_12566	hypothetical protein	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_6715	ABC transporter permease	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_10605	dTDP-4-dehydrorhamnose reductase	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_6649	acyltransferase;acyltransferase family protein	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_9463	glycosyltransferase	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_5717	ABC transporter ATP-binding protein	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_8625	prepilin	Insect	2	2	2	67	4	0.013186883860239	1	1	2	0
+group_10504	UbiX family flavin prenyltransferase	Insect	3	10	1	59	13	0.016422737337266	3	6	3	1
+group_12117	S-type pyocin domain-containing protein	Insect	3	10	1	59	13	0.016422737337266	5	4	3	1
+group_11980	tail fiber domain-containing protein	Insect	3	11	1	58	14	0.020650845713551	5	5	3	1
+group_11485	UbiD family decarboxylase	Insect	3	11	1	58	14	0.020650845713551	3	7	3	1
+group_9170	hypothetical protein	Insect	3	11	1	58	14	0.020650845713551	8	1	3	2
+group_7781	MarR family winged helix-turn-helix transcriptional regulator	Insect	3	11	1	58	14	0.020650845713551	3	7	3	1
+group_12876	glucosyltransferase domain-containing protein	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_6178	replication associated protein RepA1	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_12867	glycosyltransferase family 2 protein	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_6071	TraJ protein;hypothetical protein	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_12865	GtrA family protein	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_5077	hypothetical protein	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_7623	conjugal transfer protein TraO	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_2317	Flp pilus assembly complex ATPase component TadA	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_6304	type 4b pilus protein PilO2	Insect	2	3	2	66	5	0.021558575195465	1	2	2	0
+group_10160	DUF4865 family protein	Insect	4	26	0	43	30	0.025178468068686	13	12	4	1
+group_10977	hypothetical protein	Insect	3	12	1	57	15	0.025500032156409	3	8	3	1
+group_6268	ABC transporter permease	Insect	3	12	1	57	15	0.025500032156409	6	5	3	1
+group_5160	ABC transporter permease	Insect	3	13	1	56	16	0.030998778056467	6	6	3	1
+group_4147	putative FMN-dependent luciferase-like monooxygenase	Insect	3	13	1	56	16	0.030998778056467	6	6	3	1
+group_3721	alkylhydroperoxidase domain protein	Insect	3	13	1	56	16	0.030998778056467	6	6	3	1
+group_8942	isopentenyl-diphosphate Delta-isomerase	Insect	3	13	1	56	16	0.030998778056467	4	8	3	1
+group_1763	ABC transporter ATP-binding protein	Insect	3	13	1	56	16	0.030998778056467	6	6	3	1
+group_7731	hypothetical protein;TIGR04028 family ABC transporter substrate-binding protein	Insect	3	13	1	56	16	0.030998778056467	6	6	3	1
+group_15133	IcmT/TraK family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_10860	acyltransferase;acyltransferase family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_8883	relaxase/mobilization nuclease domain-containing protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_8528	conjugal transfer protein TraP	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_6481	type IV pilus biogenesis protein PilP	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_5519	TraY domain-containing protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_3368	plasmid transfer ATPase TraJ	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_1836	PilN family type IVB pilus formation outer membrane protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_14770	DUF6290 family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_10533	pyrroloquinoline quinone biosynthesis peptide chaperone PqqD	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_8882	molybdopterin-guanine dinucleotide biosynthesis protein MobC;hypothetical protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_7674	helix-turn-helix domain-containing protein	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_5978	plasmid IncI1-type surface exclusion protein ExcA	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_5207	DotI/IcmL/TraM family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_3221	conjugal transfer protein TraW	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_898	DotA/TraY family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_14592	hypothetical protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_10235	DotD/TraH family lipoprotein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_8856	DUF5710 domain-containing protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_7206	type IV secretion system DotC family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_5941	hypothetical protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_4981	AraC family transcriptional regulator	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_3208	hypothetical protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_782	conjugal transfer protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_13739	type IV pilus biogenesis protein PilM	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_9588	phospholipase D family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_8689	toxin co-regulated pilus biosynthesis Q family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_6611	hydrolase	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_5940	DsbC family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_4909	conjugal transfer protein TraX	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_2533	PQQ-dependent sugar dehydrogenase	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_267	conjugal transfer protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_12939	conjugal transfer protein TraQ	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_9173	pyrroloquinoline quinone biosynthesis protein PqqB	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_8530	hypothetical protein;conjugal transfer protein TraR	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_6482	type II secretion system F family protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_5761	conjugal transfer protein TraT;conjugal transfer protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_4834	DotH/IcmK family type IV secretion protein	Insect	2	4	2	65	6	0.03171540659482	1	3	2	0
+group_2461	pyrroloquinoline quinone precursor peptide PqqA	Insect	2	4	2	65	6	0.03171540659482	2	1	2	1
+group_11670	HNH endonuclease	Insect	4	28	0	41	32	0.033038413127165	15	12	4	1
+group_5709	MFS transporter	Insect	4	29	0	40	33	0.037595435627464	16	13	4	0
+group_9460	helix-turn-helix transcriptional regulator;helix-turn-helix domain-containing protein	Insect	4	30	0	39	34	0.042608160377792	17	13	4	0
+group_13054	hypothetical protein;DUF2570 domain-containing protein	Insect	2	5	2	64	7	0.043539777477651	2	2	2	1
+group_8626	A24 family peptidase;hypothetical protein	Insect	2	5	2	64	7	0.043539777477651	2	3	2	0
+group_12838	type 1 fimbrial protein	Insect	2	5	2	64	7	0.043539777477651	3	1	2	1
+group_8227	IclR family transcriptional regulator	Insect	2	5	2	64	7	0.043539777477651	2	1	2	2
+group_12468	hypothetical protein	Insect	2	5	2	64	7	0.043539777477651	3	1	2	1
+group_4118	hypothetical protein	Insect	2	5	2	64	7	0.043539777477651	2	1	2	2
+group_15031	hypothetical protein	Insect	2	5	2	64	7	0.043539777477651	2	2	2	1
+group_11464	MFS transporter	Insect	2	5	2	64	7	0.043539777477651	3	1	2	1
+group_3703	MFS transporter	Insect	2	5	2	64	7	0.043539777477651	2	1	2	2
+group_13563	lytic transglycosylase domain-containing protein	Insect	2	5	2	64	7	0.043539777477651	2	3	2	0
+group_10432	alcohol dehydrogenase;hypothetical protein	Insect	2	5	2	64	7	0.043539777477651	3	1	2	1
+group_14292	oxalurate catabolism protein HpxZ	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_6608	MurR/RpiR family transcriptional regulator	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_9929	amino acid ABC transporter permease	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_5486	AtzE family amidohydrolase	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_9762	amino acid ABC transporter permease	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_4979	oxalurate catabolism protein HpxX	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_8283	amino acid ABC transporter ATP-binding protein	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_1951	gamma-glutamyltransferase family protein	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_7411	transporter substrate-binding domain-containing protein	Plant	3	9	0	61	12	0.00353720496495	1	7	1	3
+group_10515	hydrolase	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_5382	nuclear transport factor 2 family protein	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_9348	hypothetical protein	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_5282	hypothetical protein	Plant	2	2	1	68	4	0.006720689433404	1	1	0	2
+group_7028	zinc ribbon domain-containing protein	Plant	2	2	1	68	4	0.006720689433404	0	2	0	2
+group_5600	helix-turn-helix transcriptional regulator;AraC family transcriptional regulator	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_12045	NAD(P)H-dependent oxidoreductase	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_5383	LysR family transcriptional regulator	Plant	2	2	1	68	4	0.006720689433404	0	1	1	2
+group_11434	glucosamine-6-phosphate deaminase	Plant	3	12	0	58	15	0.007315582995691	4	7	1	3
+group_4307	type VI secretion system contractile sheath large subunit	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_474	type VI secretion system ATPase TssH	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_4305	Hcp family type VI secretion system effector	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_4303	GPW/gp25 family protein	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_5017	type VI secretion system ImpA family N-terminal domain-containing protein	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_4207	type VI secretion system baseplate subunit TssG	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_4309	type VI secretion system contractile sheath small subunit	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_1371	type VI secretion system baseplate subunit TssF	Plant	3	13	0	57	16	0.009003794456235	4	7	2	3
+group_142	type VI secretion system membrane subunit TssM	Plant	3	14	0	56	17	0.010933178982571	4	8	2	3
+group_12926	tyrosine-type recombinase/integrase	Plant	2	3	1	67	5	0.011093961026433	0	2	1	2
+group_5098	hypothetical protein	Plant	2	3	1	67	5	0.011093961026433	1	1	1	2
+group_13456	benzoate 12-dioxygenase small subunit	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_7602	acyltransferase family protein	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_3243	3-oxoadipyl-CoA thiolase	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_9507	3-oxoacid CoA-transferase subunit B	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_7556	16-dihydroxycyclohexa-24-diene-1-carboxylate dehydrogenase	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_2653	Rieske 2Fe-2S domain-containing protein	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_9409	3-oxoacid CoA-transferase subunit A	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_6698	helix-turn-helix domain-containing protein	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_8074	ring-hydroxylating dioxygenase ferredoxin reductase family protein	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_5260	catechol 12-dioxygenase	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_15106	muconolactone Delta-isomerase	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_7947	3-oxoadipate enol-lactonase	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_3710	muconate cycloisomerase family protein	Plant	2	4	1	66	6	0.016480159495788	2	1	1	2
+group_12905	phage integrase Arm DNA-binding domain-containing protein	Plant	2	5	1	65	7	0.022847128432697	2	2	1	2
+group_8227	IclR family transcriptional regulator	Plant	2	5	1	65	7	0.022847128432697	2	1	2	2
+group_4118	hypothetical protein	Plant	2	5	1	65	7	0.022847128432697	2	1	2	2
+group_3703	MFS transporter	Plant	2	5	1	65	7	0.022847128432697	2	1	2	2
+group_12906	excisionase	Plant	2	5	1	65	7	0.022847128432697	2	2	1	2
+group_10449	HigA family addiction module antidote protein	Plant	3	19	0	51	22	0.024760434754646	10	7	2	3
+group_10400	hypothetical protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_6603	glycosyltransferase family 4 protein;glycosyltransferase;hypothetical protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_4294	pyrroloquinoline quinone biosynthesis protein PqqE	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_14106	type II toxin-antitoxin system HicB family antitoxin	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_9956	phosphoribosyltransferase;hypothetical protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_5958	glycosyltransferase family 4 protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_3881	glycosyltransferase	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_11830	winged helix-turn-helix domain-containing protein	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_9600	hypothetical protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_5597	HARLDQ motif MBL-fold protein	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_3206	MFS transporter	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_11327	haloacid dehalogenase-like hydrolase;hypothetical protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_8458	aromatic acid/H+ symport family MFS transporter;MFS transporter	Plant	2	6	1	64	8	0.030162711428388	4	1	1	2
+group_5561	LysR family transcriptional regulator	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_2511	undecaprenyl-phosphate galactose phosphotransferase WbaP	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_10797	LysR family transcriptional regulator	Plant	2	6	1	64	8	0.030162711428388	4	1	1	2
+group_7397	glycosyltransferase family 4 protein	Plant	2	6	1	64	8	0.030162711428388	3	3	0	2
+group_5105	LysR family transcriptional regulator	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_1694	type II toxin-antitoxin system HicA family toxin	Plant	2	6	1	64	8	0.030162711428388	3	1	2	2
+group_10919	hypothetical protein;exopolysaccharide biosynthesis protein	Plant	3	21	0	49	24	0.032542285677535	6	14	1	3
+group_8683	hypothetical protein;right-handed parallel beta-helix repeat-containing protein	Plant	3	21	0	49	24	0.032542285677535	5	16	0	3
+group_10881	helix-turn-helix transcriptional regulator	Plant	3	22	0	48	25	0.036979870088109	9	11	2	3
+group_12611	hypothetical protein	Plant	3	22	0	48	25	0.036979870088109	9	11	2	3
+group_11622	4-oxalocrotonate tautomerase family protein;tautomerase family protein	Plant	3	22	0	48	25	0.036979870088109	9	11	2	3
+group_12649	type 1 fimbrial protein	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_9684	fimbria/pilus periplasmic chaperone	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_12807	type 1 fimbrial protein	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_5849	SDR family NAD(P)-dependent oxidoreductase	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_12754	outer membrane usher protein	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_5726	serine acetyltransferase	Plant	2	7	1	63	9	0.038394752074088	4	3	0	2
+group_12753	type 1 fimbrial protein	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_4182	alcohol dehydrogenase catalytic domain-containing protein	Plant	2	7	1	63	9	0.038394752074088	4	1	2	2
+group_15131	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14864	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14591	DUF1870 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14395	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14341	lysozyme inhibitor LprI family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14173	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14092	type II toxin-antitoxin system VapC family toxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13882	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13828	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13667	DMT family transporter	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13562	HNH endonuclease	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13438	MgtC/SapB family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13219	spore coat U domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12645	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12373	LuxR C-terminal-related transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_11934	tyrosine-type recombinase/integrase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10910	NAD(P)H-dependent oxidoreductase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10363	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_9884	type 1 fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_8237	tyrosine-type recombinase/integrase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7694	MipA/OmpV family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7131	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6332	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5850	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5483	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5268	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5053	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4635	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3700	linear amide C-N hydrolase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3503	reverse transcriptase family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3207	FRG domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2726	phage tail sheath family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2607	amidohydrolase family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2373	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2305	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2226	type IV toxin-antitoxin system YeeU family antitoxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2164	DUF5908 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1998	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1711	ANR family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1568	ANR family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1266	DUF262 domain-containing HNH endonuclease family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1085	ATP-binding protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_964	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_828	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_670	site-specific integrase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_521	DEAD/DEAH box helicase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_278	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_74	PAAR domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_16	inverse autotransporter beta domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_15083	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14823	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14562	phage holin family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14394	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14314	type II toxin-antitoxin system prevent-host-death family antitoxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14171	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14060	tail fiber assembly protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13866	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13759	phage tail protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13640	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13534	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13412	fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13197	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12558	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12370	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_11580	LuxR C-terminal-related transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10774	TIGR02646 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10172	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_9820	VUT family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_8170	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7520	fimbria/pilus periplasmic chaperone	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6792	DUF2971 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6329	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5628	DUF1837 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5447	RNA-directed DNA polymerase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5241	spore coat U domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5022	ParB/RepB/Spo0J family plasmid partition protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4160	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3693	XRE family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3498	plasmid-partitioning protein SopA	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3068	phage tail sheath subtilisin-like domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2641	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2596	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2348	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2302	isocitrate dehydrogenase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2202	transposase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2119	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1953	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1706	DUF551 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1484	SGNH/GDSL hydrolase family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1191	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1074	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_939	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_825	helix-turn-helix domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_669	helix-turn-helix domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_506	outer membrane usher protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_223	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_51	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14919	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14766	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14486	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14372	serine hydrolase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14313	DUF2570 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14146	IS66 family insertion sequence hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14002	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13865	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13758	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13616	DNA repair protein RadC	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13524	type 1 fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13411	spore coat U domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12880	replication initiation protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12456	type 1 fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12288	fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_11084	class I SAM-dependent methyltransferase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10517	glutathione S-transferase N-terminal domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10098	helix-turn-helix domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_9364	response regulator transcription factor	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7909	molecular chaperone	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7353	helix-turn-helix transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6689	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6134	WYL domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5605	Pvc16 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5385	LysR family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5228	Ig-like domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4989	PD-(D/E)XK motif protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4034	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3634	DNA cytosine methyltransferase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3497	restriction endonuclease subunit S	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3034	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2637	IS3 family transposase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2584	DUF2971 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2336	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2282	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2176	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2077	IS66 family transposase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1862	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1662	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1472	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1190	NACHT domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1055	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_914	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_813	phage baseplate assembly protein V	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_644	colicin-D	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_386	Z1 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_193	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_43	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14897	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14721	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14461	TA system toxin CbtA family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14368	adenylyltransferase/cytidyltransferase family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14262	M15 family metallopeptidase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14132	DoxX family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14001	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13848	phage tail protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13713	carbohydrate binding domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13593	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13507	class I SAM-dependent methyltransferase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13374	fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12860	GNAT family N-acetyltransferase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12449	tyrosine-type recombinase/integrase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12054	disulfide bond formation protein B	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10973	DUF2913 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10511	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10091	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_8540	metallophosphoesterase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7809	phosphotransferase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7189	winged helix-turn-helix domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6665	DUF4942 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6038	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5591	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5290	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5189	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4969	DUF4747 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3789	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3630	phage tail sheath subtilisin-like domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3477	HAMP domain-containing histidine kinase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2986	AAA family ATPase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2636	IS3 family transposase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2583	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2330	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2268	DUF5993 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2166	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2036	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1845	Ig-like domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1660	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1364	toxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1126	type II toxin-antitoxin system VapB family antitoxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1012	AIPR family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_886	type II toxin-antitoxin system ParD family antitoxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_738	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_539	fimbria/pilus outer membrane usher protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_379	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_136	IS66 family insertion sequence element accessory protein TnpB	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_38	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14895	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14679	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14445	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14356	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14199	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_14131	type II toxin-antitoxin system death-on-curing family toxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13975	DUF1795 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13829	GPW/gp25 family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13668	antirestriction protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13592	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13439	fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_13276	S-type pyocin domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12774	type 1 fimbrial protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12448	spore coat U domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_12047	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10972	helix-turn-helix domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_10440	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_9885	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_8506	SLATT domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7746	GntR family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_7187	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6361	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_6005	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5527	LysR family transcriptional regulator	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5289	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_5061	VirK/YbjX family protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_4902	DUF4238 domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3754	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3629	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_3307	MFS transporter	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2913	AAA family ATPase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2608	N-acetylglucosamine-specific PTS transporter subunit IIBC	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2446	ATP-binding protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2322	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2245	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2165	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_2035	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1812	TraY domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1616	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1271	phage tail tape measure protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_1094	lytic transglycosylase domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_990	AAA family ATPase	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_882	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_698	antitoxin	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_536	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_378	inverse autotransporter beta domain-containing protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_113	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_22	hypothetical protein	Plant	1	0	2	70	1	0.041095890410959	0	0	0	1
+group_11931	hypothetical protein	Plant	3	24	0	46	27	0.047028747829442	7	14	3	3
+group_11687	hypothetical protein	Plant	3	24	0	46	27	0.047028747829442	5	16	3	3
+group_11043	HlyD family secretion protein	Plant	3	24	0	46	27	0.047028747829442	5	16	3	3
+group_8341	LysE family translocator;LysE family transporter	Plant	3	24	0	46	27	0.047028747829442	7	16	1	3
+group_12095	fimbrial biogenesis outer membrane usher protein	Plant	3	24	0	46	27	0.047028747829442	6	15	3	3
+group_455	fimbrial biogenesis outer membrane usher protein	Plant	3	24	0	46	27	0.047028747829442	14	8	2	3
+group_10640	hypothetical protein	Plant	2	8	1	62	10	0.047511093961027	3	4	1	2
+group_5280	alpha-E domain-containing protein	Plant	2	8	1	62	10	0.047511093961027	3	3	2	2
+group_12464	hypothetical protein	Plant	2	8	1	62	10	0.047511093961027	5	1	2	2
+group_9321	MerR family transcriptional regulator	Plant	2	8	1	62	10	0.047511093961027	4	3	1	2
+group_2500	circularly permuted type 2 ATP-grasp protein	Plant	2	8	1	62	10	0.047511093961027	3	3	2	2
+group_12443	hypothetical protein	Plant	2	8	1	62	10	0.047511093961027	5	1	2	2
+group_9195	hypothetical protein	Plant	2	8	1	62	10	0.047511093961027	3	3	2	2
+group_1639	urocanate hydratase	Plant	2	8	1	62	10	0.047511093961027	0	8	0	2
+group_12425	winged helix-turn-helix domain-containing protein	Plant	2	8	1	62	10	0.047511093961027	5	1	2	2
+group_8581	proteasome-type protease	Plant	2	8	1	62	10	0.047511093961027	3	3	2	2
+group_11770	LysR family transcriptional regulator	Plant	2	8	1	62	10	0.047511093961027	5	1	2	2
+group_7326	transglutaminase family protein	Plant	2	8	1	62	10	0.047511093961027	3	3	2	2
