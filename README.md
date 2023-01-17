@@ -8,7 +8,7 @@ The repository with working scripts, figures, data, and supplementary materials 
 
 This repository contains scripts used for statistical analysis of pangenome, phylogeny, and phenotypical associations. Please consult the Methods section in the paper for extra details:
 
-Shikov A.E., Merkushova1 A.V., Nizhnikov1 A.A., Antonets K.S. (2023) The man, the plant, and the insect: shooting host specificity determinants in <i>Serratia marcescens</i> pangenome
+Shikov A.E., Merkushova A.V., Nizhnikov A.A., Antonets K.S. (2023) The man, the plant, and the insect: shooting host specificity determinants in <i>Serratia marcescens</i> pangenome
 
 
 ## Figures
