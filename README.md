@@ -19,7 +19,7 @@ All supplementary material is located in the `supplementary/` directory.
 `Supplementary_tables.xlsx` is an Exel table with all supplementary tables.
 
 * `supplementary/pics/` folder contains individual supplementary figures.
-* For convenience, in the `supplemenatry/tables/` folder individual supporting tables in CSV format are provided. For detailed description ogf the tables, please consult the `Supplementary_tables.xlsx` file.
+* For convenience, in the `supplemenatry/tables/` folder individual supporting tables in CSV format are provided. For detailed description of the tables, please consult the `Supplementary_tables.xlsx` file.
 
 ## Data
 Analyzed data are included in the `data/` directory.
