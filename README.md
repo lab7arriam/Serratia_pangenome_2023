@@ -6,20 +6,20 @@ The repository with working scripts, figures, data, and supplementary materials 
 
 ## Contents 
 
-This repository contains scripts used for statistical analysis of pangenome, phylogeny, and phenotypical associations. Please consult the Methods section in the paper for extra details:
+This repository contains scripts for statistical analysis of pangenome, phylogeny, and phenotypical associations. Please consult the Methods section in the paper for extra details:
 
 Shikov A.E., Merkushova A.V., Nizhnikov A.A., Antonets K.S. (2023) The man, the plant, and the insect: shooting host specificity determinants in <i>Serratia marcescens</i> pangenome. Front. Microbiol. 14:1211999.  https://doi.org/10.3389/fmicb.2023.1211999
 
 ## Figures
 Figures are available in the `pics/` directory. For the description, please consult the Results section of the article.
 
-## Supplemenatry
+## Supplementary
 All supplementary material is located in the `supplementary/` directory. 
 `Supplementary_figures.docx` is a Microsoft Word document with a description of all supplementary figures.
 `Supplementary_tables.xlsx` is an Exel table with all supplementary tables.
 
-* `supplementary/pics/` folder contains individual supplementary figures.
-* For convenience, in the `supplemenatry/tables/` folder individual supporting tables in CSV format are provided. For detailed description of the tables, please consult the `Supplementary_tables.xlsx` file.
+* The `supplementary/pics/` folder contains individual supplementary figures.
+* For convenience, in the `supplementary/tables/` folder individual supporting tables in CSV format are provided. For a detailed description of the tables, please consult the `Supplementary_tables.xlsx` file.
 
 ## Data
 Analyzed data are included in the `data/` directory.
